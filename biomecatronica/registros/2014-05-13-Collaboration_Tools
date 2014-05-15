@@ -1,0 +1,43 @@
+13.08.14
+
+- Collaboration Tools
+	- Busca Google 
+	Keywords: collaboration tool
+		Resultados
+		- CISCO Lab - http://static-course-assets.s3.amazonaws.com/IntroNet50ENU/files/1.1.1.8%20Lab%20-%20Researching%20Network%20Collaboration%20Tools.pdf
+		Seção 4: Wiki
+
+		- RESEARCH GATE - http://www.researchgate.net/post/What_kind_of_software_and_online_services_are_research_labs_using_for_social_collaboration_and_project_knowledge_and_lab_management10
+		Respostas de um monte de pessoas
+
+		- FORBES - http://www.forbes.com/sites/allbusiness/2013/07/11/5-types-of-office-collaboration-tools-which-is-right-for-your-team/2/
+		Ferramentas Prontas, não é o que eu quero
+
+		- LIFEHACKER - http://lifehacker.com/the-best-collaboration-tools-for-small-groups-and-teams-1477548590
+		Algumas alternativas interessantes pra as ferramentas tradicionais, cita o GitHub
+
+		- CREATIVE BLOQ - http://www.creativebloq.com/design/online-collaboration-tools-912855
+		Ferramentas bem visuais voltadas para Designers
+
+	- Perguntar no site do Gustavo
+
+- Circuito do Metronomo
+	- Problema encontrado: filtro de linha estava desligado
+
+	- Opções para utilização de LEDs testadas
+		- Um LED
+		Não funciona: as câmeras não detectam
+
+		- Três LEDs apontados para direções diferentes
+		Não funciona: algumas câmeras não detectam, outras detectam três pontos
+
+		- Sete LEDs
+		Não funciona: cameras detectam múltiplos pontos
+
+	- Para utilizar diferentes números de LEDs, mexer na fonte pra alterar a tensão nos LEDs e não queimá-los
+		
+
+
+		
+
+		
