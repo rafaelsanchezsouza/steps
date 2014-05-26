@@ -1,2 +1,3 @@
-font: 18
+legend_font: 20
+axis_font: 16
 saveas: .png
