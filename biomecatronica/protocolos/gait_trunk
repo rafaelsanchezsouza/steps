@@ -1,0 +1,127 @@
+PROTOCOLO EXPERIENCIA METRONOMO
+
+SUBSISTEMAS
+- Sujeito
+- EMG
+- Metronomo
+- Optitrack (Cameras)
+
+	SUJEITO
+	Sujeito voluntário para experiência, nele serão instalados alguns sensores
+
+	EMG
+	Equipamento utilizado na analise os impulsos elétricos enviados pelo cérebro
+
+	METRONOMO
+	Equipamento utilizado para a determinação do ritmo de caminhada
+
+	OPTITRACK
+	Sistema de Cameras Infravermelho + Software
+
+
+PREPARAÇÃO DOS SUBSISTEMAS
+
+	EMG
+	- Roteador
+	- Laptop Bioroblap
+	- Software EMGAnalyzer
+	- BTS FreeEMG
+		- Palm HP
+		- Eletrodos
+		- External Trigger Box (Subsistema Metronomo)
+
+	PROCEDIMENTOS
+	1. Ligar carregador Eletrodos
+	2. Conectar: 
+		a. Laptop a Roteador
+		b. Laptop a External Trigger Box (Cabo USB)
+	3. Ligar Laptop
+		a. Selecionar Windows 7
+*		b. Usuario bioroblap Senha bioroblap
+	4. Ligar Software EMGAnalyzer (Área de Trabalho)
+	5. Selecionar Trigger por Hardware (Laboratory -> Set Trigger)
+			a1. Selecionar Hardware Trigger
+			a2. Selecionar Start
+	6. Palm HP
+		a. Ligar Palm
+		b. Clicar Activate
+			b.1 Selecionar Eletrodos Desejados (1 a 8)
+			b.2 Start
+			b.3 Esperar Conectar (Indicação Verde no Palm e Eletrodos piscando repetidamente)
+			b.4 Ok
+		c. Clicar Remote 
+			c1. Menu
+			c2. Capture
+			c3. Arm
+	7. Aquisição de Sinal
+		a. New Patient
+		b. New Session
+		c. New Trial
+			c1. Por nome
+			c2. Acquire
+			c3. View
+			c4. Testar qualidade dos sinais
+
+	METRONOMO
+	- Circuito distribuidor de sinal
+	- External Trigger Box
+*	- Arduino (Modelo)
+	- Alto-Falante	
+
+	PROCEDIMENTOS
+	5. Ligar Laptop a Arduino - Cabo Cinza (USB Serial Port COM4)
+	6. Ligar Fonte do Metronomo
+		- Voltagem Fonte Fajuta: 6 Volts
+		- Voltagem Real: 12 Volts
+*	7. Ligar Software do Metronomo (C:\Users\Bioroblap\Desktop\Gait\Metronomo\Program of Metro\Metronome Controller\Bin\Debug\MetronomeController.exe)
+		
+
+	OPTITRACK
+	- 7 Câmeras OptiTrack Flex13 + 2 hubs
+*		Resolução?
+		120 FPS
+
+	- 1 Marker Wand (varinha com um marcador)
+	- Esquadro Plano de chão
+	- Marcadores
+	- Computador Desktop
+	- Software Motive
+
+	PROCEDIMENTOS
+	8. Verificar se cameras E hubs estão conectados
+	9. Ligar Software Motive (Área de Trabalho)
+*	10. Wizards -> Calibration
+		a. 
+		b.
+		c. 
+	11. Ligar Metronomo
+
+	SUJEITO
+	- Sujeitos saudáveis entre 18 e 40 anos
+*	- Colete Ortopédico (Modelo e marca)
+	- Esteira (Moviment - LX160 Treadmill)
+
+	PROCEDIMENTOS
+*	12. Imprimir folha para tomada de dados (ou fazer isto virtualmente)
+	13. Explicar como será realizado o experimento, esclarecer eventuais dúvidas
+	14. Apresentar termo de consentimento livre e esclarecido para assinatura
+	15. Fixação dos marcadores sobre os pontos de interesse (passar algodão com álcool, se necessário)
+*	16. Wizards -> Rigid Body
+		a. Create From New Point Data
+		b. Gravar 15 segundos de dados
+		* Para criacao de Corpo Rigido deve-se selecionar 3 pontos
+		c. Criar 3 Corpos Rigidos: Metron, LF (Left foot) e RF (Right foot)
+			c1. Selecionar os tres pontos de interesse
+			c2. Determinar a Origem (Quaisquer um dos tres pontos)
+			c3. 3D Poligon: none
+			c4. Salvar Dados
+	17. Ligar esteira
+		a. Verificar tomada
+		b. Verificar botão que liga esteira
+		c. Verificar se chave de segurança magnética está corretamente afixada
+*	18. Com o sujeito sobre a esteira, ajustar lentamente a velocidade até encontrar a velocidade de marcha natural do sujeito
+	19. Realizar 5 minutos de adaptação de caminhada sobre a esteira
+*	20. Realizar 16 sessões de 3 minutos de caminhada
+	21. Após 8 sessões, retirar colete do sujeito e continuar sessões
+	22. Tomar notas necessárias
+	23. Ao final do teste, realizar questionário subjetivo
