@@ -1,0 +1,35 @@
+INSTALLING LATEX FOR MAC OS
+
+1. Install MacTex
+An install package needed to run Tex on Mac.
+http://tug.org/mactex/
+
+2. Install Sublime Text
+Text editor.
+http://www.sublimetext.com/
+
+3. Install Skim
+PDF Viewer: helps you to synchronize between a line in a TeX source file and the generated output PDF file.
+http://skim-app.sourceforge.net/
+
+Alternative
+Single installation: TeXPad
+https://www.texpadapp.com
+
+INSTALLING GITHUB
+
+1. Install GitHub for Mac
+
+https://mac.github.com/
+
+INSTALLING PACKAGE CONTROL (https://sublime.wbond.net/installation)
+1. Open Sublime Text console: ctrl+'
+2. Copy/Paste: import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
+
+INSTALLING LATEXING
+1. In Sublime type: Command + Shift + P
+2. Package Control: Install Package
+3. LaTeXing
+
+LINKS
+http://docs.latexing.com/stable/introduction.html
