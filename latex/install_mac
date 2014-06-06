@@ -16,12 +16,6 @@ Alternative
 Single installation: TeXPad
 https://www.texpadapp.com
 
-INSTALLING GITHUB
-
-1. Install GitHub for Mac
-
-https://mac.github.com/
-
 INSTALLING PACKAGE CONTROL (https://sublime.wbond.net/installation)
 1. Open Sublime Text console: ctrl+'
 2. Copy/Paste: import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
@@ -34,3 +28,20 @@ INSTALLING LATEXING
 LINKS
 http://docs.latexing.com/stable/introduction.html
 http://economistry.com/2013/01/installing-and-using-latex-for-mac/
+
+*** GIT ***
+
+1. INSTALL
+
+INSTALLING GITHUB
+
+1. Install GitHub for Mac
+
+https://mac.github.com/
+
+
+INSTALLING BITBUCKET
+
+
+LINKS
+http://tex.stackexchange.com/questions/65453/track-changes-in-latex
