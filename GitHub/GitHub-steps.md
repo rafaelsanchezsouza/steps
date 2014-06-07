@@ -58,3 +58,5 @@ $ git push -u origin master
 $ git remote add origin https://github.com/rafaelsanchezsouza/steps.git  
 $ git push -u origin master  
 
+## Links
+https://generalassemb.ly/online/videos/getting-started-with-git-and-github?utm_medium=ga_blog&utm_source=blog_post&utm_content=2013-11-25+Getting+Started+with+Sublime+Text+3&utm_term=frontrow_detail_page&km_program_name=front-row

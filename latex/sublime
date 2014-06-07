@@ -1,5 +1,28 @@
+http://blog.alainmeier.com/post/27255145114/some-things-beginners-might-not-know-about-sublime-text
+Direto ao ponto, util
+
 http://robdodson.me/blog/2012/06/23/sublime-text-2-tips-and-shortcuts/
 
-Emmet
+http://blog.generalassemb.ly/sublime-text-3-tips-tricks-shortcuts/
+	Coisas muito boas
 
-command + shift + p
+http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/basic_concepts.html
+
+TIP1: Work with project!!!
+This enables you to work with a Directory and allows you switch between files with cmd + p
+
+TIP2: Multiple cursors
+Hold cmd end select multiple lines do edit.
+
+TIP3: Command Pallet cmd + shift + p
+
+TIP4: Move current line up/down: “You can also move the curent line up and down the page using Ctrl + Cmd + Up/Down”
+
+TIP5: Go to a specific line: You can jump to a line by using Ctrl + G and typing in the line #
+
+SUBLIME PACKAGE CONTROL
+https://sublime.wbond.net/
+
+Sugested Packages
+1. Emmet for editing HTML
+
