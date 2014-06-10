@@ -1,0 +1,4 @@
+Stop Spaces from switching spaces due to an app coming to the foreground:
+
+defaults write com.apple.Dock workspaces-auto-swoosh -bool NO && killall Dock
+
