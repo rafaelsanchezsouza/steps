@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using templates with LaTeX
-tags: github iniciante newbie
+tags: latex template iniciante newbie
 ---
 
 *Using templates with LaTeX*
