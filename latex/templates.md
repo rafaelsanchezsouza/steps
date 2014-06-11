@@ -23,3 +23,8 @@ tags: latex template iniciante newbie
 <li>Booze.</li>
 
 </ol>
+
+packages
+
+/usepackage[latin1]{inputenc}
+
