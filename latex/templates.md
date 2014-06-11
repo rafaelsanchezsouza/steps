@@ -7,7 +7,7 @@ tags: latex template iniciante newbie
 *Using templates with LaTeX*
 
 ---
-<ul>
+<ol>
 <li>Get template
   www.latextemplates.com
   www.howtotex.com/templates</li>
@@ -22,4 +22,4 @@ tags: latex template iniciante newbie
 
 <li>Booze.</li>
 
-</ul>
+</ol>
