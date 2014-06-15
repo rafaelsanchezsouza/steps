@@ -1,0 +1,6 @@
+PWD /Users/Rafael/steps/biomecatronica/protocolos/latex
+INPUT /usr/local/texlive/2013/texmf.cnf
+INPUT /usr/local/texlive/2013/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2013/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/Rafael/steps/biomecatronica/protocolos/latex/12_06_14_gait_experiment_metron_emg.tex
+OUTPUT /Users/Rafael/steps/biomecatronica/protocolos/latex/12_06_14_gait_experiment_metron_emg.log

@@ -1,0 +1,60 @@
+This is TeX--XeT, Version 3.14159--1.1 (C version 6.1) (format=latex 95.12.27)  29 SEP 2004 12:07
+**simple
+(simple.tex
+LaTeX2e <1995/12/01>
+Hyphenation patterns for english, german, loaded.
+(/usr/local/lib/texmf/tex/latex2e/base/article.cls
+Document Class: article 1995/11/30 v1.3p Standard LaTeX document class
+(/usr/local/lib/texmf/tex/latex2e/base/size12.clo
+File: size12.clo 1995/11/30 v1.3p Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (simple.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <20.74> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 34.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 34.
+ [1
+
+]
+(simple.bbl) [2] (simple.aux) ) 
+Here is how much of TeX's memory you used:
+ 254 strings out of 10903
+ 2503 string characters out of 72932
+ 46713 words of memory out of 262141
+ 3191 multiletter control sequences out of 9500
+ 9724 words of font info for 34 fonts, out of 100000 for 255
+ 14 hyphenation exceptions out of 607
+ 24i,9n,21p,108b,225s stack positions out of 300i,40n,60p,3000b,4000s
+
+Output written on simple.dvi (2 pages, 2236 bytes).

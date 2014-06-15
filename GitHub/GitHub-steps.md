@@ -35,6 +35,9 @@ tags: github iniciante newbie
     **Error**: Create folder
     Como se cria pastas???
 
+    **Error: Commiting no Mac
+    Preso em loop infinito
+
 ## First Steps(Terminal)
 
 ### Create New File
