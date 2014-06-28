@@ -1,0 +1,35 @@
+%!TEX root=simple.tex
+\section{Prova de CAM}
+
+\paragraph{[2003/2005/2010] Questão 1 - Descreva em blocos os elementos de uma máquina CNC e mostre, através de esquemas, como o interplador se relaciona com os demais elementos da máquina CNC.} \hfill \\
+
+Interpolador é o circuito eletrônico que gera sequencias de pulsos necessários à movimentação da ferramenta. É responsável pela aproximação da trajetória de uma curva por uma sequência de degraus. Sua implementação pde ser via hardware ou via software; hoje em dia utiliza-se mais a opção via software, por sua versatilidade\\
+
+Dentro da arquitetura da CNC, o interpolador localiza-se após a leitura da fita (que contém as posições desejadas pelo programador) e antes do sistema servo (que atua os motores). O interpolador é o Controle Numérico.
+
+ARQUITETURA BÁSICA
+
+Fita Numérica $->$ Comando Numérico $->$ Servo-Sistema $->$ Máquina de usinagem\\
+
+ARQUITETURA INCREMENTAL
+
+Fita Numérica $->$ Comando Numérico $->$ Circuito de contagem reversísvel $->$ Atuador $->$ Guias \\
+
+ARQUITETURA ABSOLUTA
+
+Fita Numérica $->$ Comando Numérico $->$ Conversor Digital Analógico $->$ Circuito Eletrônico $->$ Atuador $->$ Guias 
+
+\paragraph{[2005] Questão 2 - Explique por que se justifica discretizer o espaço, que é na realidade contínuo, em uma máquina CNC} \hfill \\
+
+Em primeiro lugar, a máquina CNC é uma tecnologia digital, por definição este espaço deve ser discretizado para que os pontos de referência da CNC sejam contemplados. Ademais, a máquina CNC possui diversos elementos que geram erros: folga nas guias, erros de colocação da peça, entre outros. A resolução desta discretização é menor do que estes erros e, portanto, não é significativa.
+
+\paragraph{[2005] Questão 3} \hfill \\
+O sistema padrão de coordenadas da máquina é estabecido com o eixo Z paralelo ao eixo árvore e eixos X Y paralelos ao movimento das guias. O zero máquina varia dependendo do fabricante e do modelo da máquina.
+O sistema de coordenadas da peça é utilizado através dos comandos G54-G58. Estes comando permitem trabalhar com múltiplos sistemas de referência e mudar de um para o outro com agilidade e simplicidade.
+
+\paragraph{[2005] Questão 4 - Explique, em linhas gerais, qual a estratégia adotada pelo CAPP do tipo generativo e que se baseia na modelagem através de features.}
+O CAPP generativo se baseia em processos pré estabelecidos. Resgata-se um
+
+\paragraph{[2005] Questão 5 - Explique como a movimentação da peça é controlada na programação ATP}
+
+A movimentação

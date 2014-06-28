@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.6)  17 JUN 2014 13:08
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.6)  21 JUN 2014 20:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/Users/Rafael/steps/poli/cad_cam/simple.tex
-(/Users/Rafael/steps/poli/cad_cam/simple.tex
+**/Users/Rafael/steps/poli/cad_cam/simple_cad.tex
+(/Users/Rafael/steps/poli/cad_cam/simple_cad.tex
 LaTeX2e <2011/06/27>
 Babel <3.9f> and hyphenation patterns for 78 languages loaded.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
@@ -39,8 +39,8 @@ File: babel.def 2013/05/16 v3.9f Babel common definitions
 )
 \l@brazil = a dialect from \language\l@portuges 
 Package babel Info: Making " an active character on input line 145.
-)) (/Users/Rafael/steps/poli/cad_cam/simple.aux)
-\openout1 = `simple.aux'.
+)) (/Users/Rafael/steps/poli/cad_cam/simple_cad.aux)
+\openout1 = `simple_cad.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
@@ -67,7 +67,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 [1
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users
-/Rafael/steps/poli/cad_cam/provas_cam.tex
+/Rafael/steps/poli/cad_cam/provas_cad.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
@@ -98,27 +98,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--23
 
  []
 
-[2]) (/Users/Rafael/steps/poli/cad_cam/simple.bbl [3]) [4] (/Users/Rafael/steps
-/poli/cad_cam/simple.aux) ) 
+[2]) (/Users/Rafael/steps/poli/cad_cam/simple_cad.bbl [3]) [4] (/Users/Rafael/s
+teps/poli/cad_cam/simple_cad.aux) ) 
 Here is how much of TeX's memory you used:
- 725 strings out of 493315
- 9378 string characters out of 6137905
+ 726 strings out of 493315
+ 9432 string characters out of 6137905
  68275 words of memory out of 5000000
  4222 multiletter control sequences out of 15000+600000
  9109 words of font info for 32 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 23i,9n,23p,458b,207s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2013/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr17.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb>
-Output written on /Users/Rafael/steps/poli/cad_cam/simple.pdf (4 pages, 99488 b
-ytes).
+ 23i,9n,23p,462b,207s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr17.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb>
+Output written on /Users/Rafael/steps/poli/cad_cam/simple_cad.pdf (4 pages, 987
+60 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream

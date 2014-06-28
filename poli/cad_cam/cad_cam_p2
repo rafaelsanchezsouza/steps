@@ -28,6 +28,12 @@ _? algoritimo para sequência de
 _- face vértice
 _: "representação B-REP", "estrutura half-edge"
 
+_? Função tipo de linha
+_- sequencia de bits, linhas sólidas
+_: "retas de Bresenham"
+
+_? Algorítimo que determina se ponto é interno ao polígono
+
 CONTEÚDO P2 2003 - CAM
 
 _? papel do interpolador

@@ -1,0 +1,24 @@
+%!TEX root=simple_cad.tex
+\section{Prova de CAD}
+
+\paragraph{[2013] Questão 1 - Determine a matriz de transformação que executa a relexão em relação a uma linha arbitrária y = mx + b} \hfill \\
+
+y    1 0 0   cos a -sen a   0   1  0  0   cos a
+x =  0 1 b   sen-a  cos-a   0   0 -1  0   sen a
+1    0 0 1     0      0     1   0  0  1   
+
+\paragraph{[2005] Questão 2 - Explique por que se justifica discretizer o espaço, que é na realidade contínuo, em uma máquina CNC} \hfill \\
+
+Em primeiro lugar, a máquina CNC é uma tecnologia digital, por definição este espaço deve ser discretizado para que os pontos de referência da CNC sejam contemplados. Ademais, a máquina CNC possui diversos elementos que geram erros: folga nas guias, erros de colocação da peça, entre outros. A resolução desta discretização é menor do que estes erros e, portanto, não é significativa.
+
+\paragraph{[2005] Questão 3} \hfill \\
+O sistema padrão de coordenadas da máquina é estabecido com o eixo Z paralelo ao eixo árvore e eixos X Y paralelos ao movimento das guias. O zero máquina varia dependendo do fabricante e do modelo da máquina.
+O sistema de coordenadas da peça é utilizado através dos comandos G54-G58. Estes comando permitem trabalhar com múltiplos sistemas de referência e mudar de um para o outro com agilidade e simplicidade.
+
+\paragraph{[2005] Questão 4 - Explique, em linhas gerais, qual a estratégia adotada pelo CAPP do tipo generativo e que se baseia na modelagem através de features.}
+O CAPP generativo é um processo automatizado de geração de ``route sheets'' partindo do zero. Através de algorítimos, os inputs do usuário são interpretados e transformados em uma série de processos. A análise considera as dimensões, os materiais, entre outros fatores, sabendo que cada um destes elementos possui uma abordagem ótima.
+
+\paragraph{[2005] Questão 5 - Explique como a movimentação da peça é controlada na programação ATP}
+
+
+A movimentação
