@@ -1,5 +1,5 @@
 # Fdb version 3
-["bibtex simple"] 1403021333 "simple.aux" "simple.bbl" "simple" 1403021335
+["bibtex simple"] 1403021333 "simple.aux" "simple.bbl" "simple" 1404935713
   "/usr/local/texlive/2013/texmf-dist/bibtex/bst/base/abbrv.bst" 1292289607 20329 b5fed53e10044d0f8112183785c759b1 ""
   "simple.aux" 1403021334 1634 8ccb58b9ce2a730e0d49c358c3eeae47 ""
   "simple.bcf" 0 -1 0 ""
@@ -7,9 +7,9 @@
   (generated)
   "simple.blg"
   "simple.bbl"
-["pdflatex"] 1403021333 "/Users/Rafael/steps/poli/cad_cam/simple.tex" "/Users/Rafael/steps/poli/cad_cam/simple.pdf" "simple" 1403021335
+["pdflatex"] 1403021333 "/Users/Rafael/steps/poli/cad_cam/simple.tex" "/Users/Rafael/steps/poli/cad_cam/simple.pdf" "simple" 1404935713
   "/Users/Rafael/steps/poli/cad_cam/simple.aux" 1403021334 1634 8ccb58b9ce2a730e0d49c358c3eeae47 ""
-  "/Users/Rafael/steps/poli/cad_cam/simple.tex" 1402847502 1487 172462ff5ff48f5bc7625b882b35ed03 ""
+  "/Users/Rafael/steps/poli/cad_cam/simple.tex" 1403393524 1487 172462ff5ff48f5bc7625b882b35ed03 ""
   "/usr/local/texlive/2013/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -47,7 +47,7 @@
   "provas_cam.tex" 1403021328 2505 49c0ecb82f4e7a1ba1fd561db61c3805 ""
   "simple.aux" 1403021334 1634 8ccb58b9ce2a730e0d49c358c3eeae47 ""
   "simple.bbl" 1403021333 165 bebad9dcf44170f44ce1cb4513f3d021 "bibtex simple"
-  "simple.tex" 1402847502 1487 172462ff5ff48f5bc7625b882b35ed03 ""
+  "simple.tex" 1403393524 1487 172462ff5ff48f5bc7625b882b35ed03 ""
   (generated)
   "/Users/Rafael/steps/poli/cad_cam/simple.log"
   "/Users/Rafael/steps/poli/cad_cam/simple.pdf"
