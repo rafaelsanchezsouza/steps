@@ -1,0 +1,20 @@
+Tratamento de dados provenientes do Software Motive
+
+Fluxo
+	Criação dos labels desejados
+	Aquisição de dados pelo software Motive
+	Exportar Takes para .csv
+	Preparação dos arquivos .csv para rotina do MatLAB
+	Execução da rotina MatLAB
+	Sucesso
+
+Realizados
+	Criação dos labels desejados
+	Aquisição de dados pelo software Motive
+	Exportar Takes para .csv
+
+Pendentes
+	Preparação dos arquivos .csv para rotina do MatLAB
+		Automatizar
+		Problema: software Motive exporta de forma desorganizada e muda entre os takes
+	Execução da rotina
