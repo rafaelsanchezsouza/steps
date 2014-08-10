@@ -1,0 +1,54 @@
+Bueno Andreicia
+Primero que nada tenes que desinstalar los trial de illustrator y photoshop.
+Fijate en los comentarios de arriba como hacerlo, hay inclusive una imagen de como usar el desisntalador de Adobe (en el que tenes que tener seleccionado “quitar preferencias”, si lo borraste de otra manera, volves a instalar los DOS y los borras así.
+Antes de seguir…. realmente necesitas TODA la Suite,
+Photoshop® CS6
+Photoshop CS6 Extended
+Illustrator® CS6
+InDesign® CS6
+Acrobat® X Pro
+Flash® Professional CS6
+Flash Builder® 4.6 Premium Edition
+Dreamweaver® CS6
+Fireworks® CS6
+After Effects® CS6
+Adobe Premiere® Pro CS6
+Adobe Audition® CS6
+SpeedGrade™ CS6
+Prelude™ CS6
+Encore CS6
+Bridge CS6
+Media Encoder CS6
+Estas realmente segura….. (te anticipo que de el Premier para abajo no tengo buenas noticias de que funcione el crack…. se entiende)
+Bueno sigo (te doy el ejemplo para “jotoshop” pero tenes que hacerlo en CADA UNA de las App de la Suite, después de desinstalar.
+1.- Descargar cualquier versión de Adobe Photoshop CS6 trial, incluso de la propia página de Adobe, si ya una versión TRIAL perfecto.
+2.- Mientras se está desconectado de la red (o bloquear conexiones salientes con el archivo Host modificado), ejecutamos e instalamos Photoshop CS6.
+3.- No introducir un ID de Adobe ni nada, seleccionamos la opción de PROBAR y no la opción instalar, de esta manera no nos pedirá numero de serie ni nada y por lo tanto no nos pedirá ID de Adobe tampoco.
+4.- Una vez instalado Photoshop CS6, abre y cierra dicha aplicación una o incluso dos veces para impedir que las conexiones de salida, hagan algo raro. Evidentemente te aparecerá entonces el contador de los 30 días. Ni caso, CIERRA LA APLICACIÓN AHORA.
+5.- Aplicamos ahora el crack (cambio de carpetas que te lo explico en “b”). Guarda una copia de los archivos originales por si acaso ya sabes, carpeta “amtlib.framework” que la tenemos en Application/Contents/Frameworks.
+b. Como aplicar el Crack
+Lo primero descárgate este archivo:
+http://dl.dropbox.com/u/8358536/MaXxX.zip
+Ya lo tenemos. Perfecto.
+Ahora nos vamos a la carpeta “Aplicaciones” y dentro de ésta nos vamos a la carpeta “Photoshop CS6″. Dentro de esta carpeta, tenemos el icono de Photoshop CS6. Con el botón derecho, hacemos click en “Mostrar contenido del paquete” Ok.
+Ahora entramos en la carpeta “Contents”, hacemos click y dentro de ella, seleccionamos esta otra carpeta “Frameworks” Ok.
+Ahora dentro de esta carpeta, buscamos esta otra carpeta “amtlib.framework”. Bien, dentro de ella tenemos que encontrarnos esto:
+amtlibResourcesVersions
+MOVEMOS en una carpeta que creas ahora en tu Finder, con el nombre que quieras, todo ese contenido, solamente es para tenerla como respaldo ante cualquier error.
+Al hacer esto, hemos quedado la carpeta “amtlib.framework” vacía totalmente, correcto.
+Bueno, pues ahora nos vamos a nuestro crack, lo abrimos, generándonos una carpeta llamada “MaXxX”. Dentro de ella nos encontramos dos cosas:
+Una carpeta con el mismo nombre que la que tenemos en nuestro Photoshop CS6 instalado, es decir: “amtlib.framework” y otro archivo “ReadME.txt”.
+Abrimos la carpeta “amtlib.framework” y copiamos el contenido de la misma, en nuestra carpeta “amtlib.framework” original de Photoshop CS6.
+c. Por último
+Tremendamente importante:
+Instalar Photoshop CS6 TOTALMENTE DESCONECTADA DE INTERNET NUESTRA MAC y una vez instalado, ABRIRLO POR PRIMERA VEZ ESTANDO IGUALMENTE DESCONECTADO DE INTERNET, nos saldrá entonces el contador de días, pinchamos en el botón de versión trial que nos aparece abajo a la izquierda y lo cerramos.
+Si ejecutaste el crack de b. siguiendo los pasos ya debe de dejarnos funcional Photoshop totalmente completo. Lo cerramos y con el archivo “Host” modificado, entonces y solo entonces es cuando nos podemos conectar a Internet y al abrirlo debe funcionar perfectamente y dejarnos actualizar sin problemas.
+AHORA SI se te venció el trial de 30 días entonces
+Para que veas como se hace y que es lo que te estoy pidiendo que hagas, te dejo un enlace de un video de Youtube, sobre como instalar la Master Collection en MAC y funcionando totalmente.
+http://www.youtube.com/watch?v=CwbdNO9NBuo
+números de serie utilizados:
+1325-0949-2080-9819-3777-3230
+1325-0160-5283-9851-2671-8951
+Librería para crackearlo
+http://www.mediafire.com/?gmq55px6omdx057
+Espero que te sirva, ya nos contarás
