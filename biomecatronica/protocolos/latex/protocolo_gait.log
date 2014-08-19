@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.6)  5 AUG 2014 10:02
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.6)  11 AUG 2014 16:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -388,7 +388,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 124.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 124.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 124.
 Package rerunfilecheck Info: File `protocolo_gait.out' has not changed.
-(rerunfilecheck)             Checksum: C9BB568C4D8BAC8066AD9A628E683DEF;241.
+(rerunfilecheck)             Checksum: A817EB225F6667F3BC0A8B4745BF8CFE;214.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 124.
  ) 
 Here is how much of TeX's memory you used:
@@ -405,7 +405,7 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><
 /usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 Output written on /Users/Rafael/steps/biomecatronica/protocolos/latex/protocolo
-_gait.pdf (5 pages, 72887 bytes).
+_gait.pdf (5 pages, 68902 bytes).
 PDF statistics:
  157 PDF objects out of 1000 (max. 8388607)
  143 compressed objects within 2 object streams
