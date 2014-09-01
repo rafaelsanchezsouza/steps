@@ -10,7 +10,8 @@ tags: latex template iniciante newbie
 <ol>
 <li>Get template
   www.latextemplates.com
-  www.howtotex.com/templates</li>
+  www.howtotex.com/templates
+  http://www.cs.technion.ac.il/~yogi/Courses/CS-Scientific-Writing/index.htm</li>
   
 <li>Open generic_template.tex with text editor</li>
 
