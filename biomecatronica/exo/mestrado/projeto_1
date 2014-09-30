@@ -1,0 +1,45 @@
+PROJETO BIOMIMÉTICO DE CONTROLADOR DE EXOESQUELETO PARA COOPERAÇÃO COM HUMANO
+
+PROJETO DE CONTROLADOR BIOINSPIRADO DE EXOESQUELETO PARA COOPERAÇÃO COM HUMANO
+
+Tags
+	bioinspirado
+	exoesqueleto
+	controle de impedancia
+	BMI (brain machine interface?)
+
+Exoesqueleto
+	Membro Superior
+		Terminar exoesqueleto Andrey
+	Membro Inferior
+		Terminar exoesqueleto Camila
+
+OBJETIVOS
+	Controle de Impedância
+		de posição
+		de força
+	
+	Estimar Impedância ser Humano
+
+
+METODOLOGIA 
+	Observação do ser humano (8 meses)
+		Teste de caminhada
+			Usar resultados anteriores
+			Novas aquisições
+				Verificar protocolo
+		Teste de braço 
+			Usar resultados Virgínia e Carlos?
+			Usar resultados Diego e Carolina?
+			Novas aquisições
+
+	Implementação de controlador (12 meses)
+
+	Teste com sujeitos (4 Meses)
+
+DISCIPLINAS
+	Neurociências
+	Instrumentação Biomédica
+	Modelagem de Sistema Biológico ?
+	Controle Não-Linear
+	Biomecatrônica e Biorobótica

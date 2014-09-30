@@ -1,0 +1,68 @@
+Refs BioRob
+
+CONTROLE POR IMPEDÂNCIAS
+
+106 - Development of a Non-Exoskeletal Structure for a Robotic Suit *
+Hirohito Tanaka, Minoru Hashimoto, Member, IEEE
+
+	Wearable Robot
+		Motors that use skeleton system of human body
+			Saves weight
+			Flexibility
+			Confort
+
+			Ability Compensator (Non-Exoskeletal) x Ability Increase (Exoskeletal)
+
+	Referências Possíveis
+
+		[11] Zhang Xia, "Synchronization-Based Control of a Robotic Suit for Walking Assist", Shinshu University, Graduate School of Science and Technology, Doctoral dissertation, 2011.
+
+	Adaptações
+		Apoio Rígido (Intermedio)
+
+		Apoio atrás da perna (não do lado)
+
+* 157 - Adaptive Impedance Control for Robot-Aided Rehabilitation of Ankle Movements
+Juan C. Pérez Ibarra, Wilian M. dos Santos, Hermano I. Krebs, Fellow, IEEE, Adriano A. G. Siqueira	
+
+	Two strategies for assist-as-needed
+		Normalize robot and human impedance
+			Estimate patient stifness
+		Search optimal solution that minimizes a cost function of torque
+
+	Lower Limb
+
+209 - Modular Design and Modeling of an Upper Limb Exoskeleton 
+Javier Garrido, Wen Yu, Alberto Soria	
+
+	4-DoF
+
+127 - WAKE-up: a Wearable Ankle Knee Exoskeleton
+Stefano Rossi, Fabrizio Patanè, Fausto Del Sette and Paolo Cappa
+
+	Lower Limb
+
+102 - Mechatronic Design of a Sit-to-Stance Exoskeleton.
+Karen Junius1, Branko Brackx, Victor Grosu, Heidi Cuypers, Joost Geeroms, Marta Moltedo, Bram Vanderborght and Dirk Lefeber
+
+052 - Achilles: An Autonomous Lightweight Ankle Exoskeleton to Provide Push-Off Power
+
+
+FEEDBACK POR EMG & PAM
+
+204 - A Lower Limb Exoskeleton with Hybrid Actuation
+Hipolito Aguilar-Sierra, Ricardo Lopez, Wen Yu, Sergio Salazar, Rogelio Lozano
+
+135 - Use of Surface Electromyography for Human Amplification Using an Exoskeleton Driven by Artificial Pneumatic Muscles
+Joao Luiz A. S. Ramos, and Marco A. Meggiolaro
+
+
+VIRGÍNIA
+
+059 - FEXO Knee: A Rehabilitation Device for Knee Joint Combining Functional Electrical Stimulation with a Compliant Exoskeleton
+
+JOÃO
+
+041 - Learning a Predictive Model of Human Gait for the Control of a Lower-limb Exoskeleton
+Erwin Aertbeliën and Joris De Schutter
+

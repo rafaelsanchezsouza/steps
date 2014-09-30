@@ -1,0 +1,57 @@
+super+t: go to file
+super+ctrl+p: go to project
+super+r: go to methods
+super+shift+p: command prompt
+ctrl+g: go to line
+ctrl+`: Python console
+Editing
+
+super+l: select line (repeat select next lines)
+super+d: select word (repeat select others occurrences in context for multiple editing)
+ctrl+shift+m: select content into brackets
+super+shift+enter: insert line before
+super+enter: inter line after
+ctrl+shift+k: delete line
+super+k-k: delete from cursor to end of line
+super+k-backspace: delete from cursor to start of line
+super+shift+d: duplicate line(s)
+super+j: join lines
+super+k-u: upper case
+super+k-l: lower case
+super+/: comment
+super+alt+/: block comment
+super+y: redo or repeat
+super+shift+z: past and ident
+ctrl+space: autocomplete (repeat to select next suggestion)
+ctrl+m: jump to matching brackets
+XML/HTML
+
+super+shift+a: select content into tag
+super+alt+.: close tag
+Find/Replace
+
+super+f: find
+super+alt+f: replace
+super+alt+g: find next occurrence of current word
+super+ctrl+g: select all occurrences of current word for multiple editing
+super+shift+f: find in files
+Splits/Tabs
+
+super+alt+1: Single column
+super+alt+2: Two columns
+super+alt+5: Grid (4 groups)
+ctrl+[1,2,3,4]: Focus group
+ctrl+shift[1,2,3,4]: Move file to group
+super+[1,2,3...] Select tab
+Bookmarks
+
+super+f2: Toggle bookmark
+f2: next bookmark
+shift+f2: previous bookmark
+super+shift+f2: clear bookmarks
+Marks
+
+super+k-space: set mark // super+k-; for me
+super+k-w: delete from cursor to mark
+super+k-a: select from cursor to mark
+super+k-g: clear mark

@@ -1,0 +1,19 @@
+\begin{table}[h]
+\resizebox{1\textwidth}{!}{
+\begin{tabular}{|l|l|l|l|l|l|}
+\hline
+\textbf{}          & \textbf{Classificação} & \textbf{Qtde} & \textbf{Função}                            & \textbf{Sinal Recebido do Processador}          & \textbf{Sinal Enviado ao Processador}  \\ \hline
+Painel LCD         & Monitoramento          & 1                   & Interface Homem - Máquina                  & Dados a serem exibidos                          & -                                      \\ \hline
+LED                & Monitoramento          & 5                   & Monitoramento dos dispositivos periféricos & Estado de acionamento do periférico & -                                      \\ \hline
+Buzzer             & Monitoramento          & 1                   & Alertar o usuário                          & Sinal de acionamento do Buzzer                  &                                        \\ \hline
+Botão              & Controle               & 5                   & Interação do usuário                       & -                                               & Navegação/seleção no Menu do Painel \\ \hline
+Driver Bomba       & Atuador                & 1                   & Controla o funcionamento da Bomba          & Sinal de acionamento da Bomba                   & -                                      \\ \hline
+Driver Resistência & Atuador                & 2                   & Controla o funcionamento das Resistências  & Sinal de acionamento da Resistência             & -                                      \\ \hline
+Sensor Térmico     & Sensor                 & 2                   & Monitoramento da temperatura               & -                                               & Medição de Temperatura                 \\ \hline
+Válvula Solenóide  & Atuador                & 2                   & Direcionamelto do fluxo da Bomba           & Sinal de acionamento da Válvula                 & -                                      \\ \hline
+Sensor de Nível    & Sensor                 & 2                   & Monitoramento de volume                    & -                                               & Medição de Nível                       \\ \hline
+\end{tabular}
+}
+\caption{Tabela de Dispositivos Periféricos}
+\label{table:perifericos}
+\end{table}

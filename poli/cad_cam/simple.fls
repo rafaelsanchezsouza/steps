@@ -35,7 +35,10 @@ INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+OUTPUT /Users/Rafael/steps/poli/cad_cam/simple.pdf
+INPUT /usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /Users/Rafael/steps/poli/cad_cam/provas_cam.tex
+INPUT /Users/Rafael/steps/poli/cad_cam/provas_cam.tex
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
@@ -43,8 +46,6 @@ INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-OUTPUT /Users/Rafael/steps/poli/cad_cam/simple.pdf
-INPUT /usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /Users/Rafael/steps/poli/cad_cam/simple.bbl
 INPUT /Users/Rafael/steps/poli/cad_cam/simple.bbl
 INPUT /Users/Rafael/steps/poli/cad_cam/simple.aux

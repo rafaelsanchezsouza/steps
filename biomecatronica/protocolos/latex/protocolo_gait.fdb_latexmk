@@ -1,4 +1,5 @@
 # Fdb version 3
+<<<<<<< HEAD
 ["makeindex protocolo_gait.idx"] 1402526050 "protocolo_gait.idx" "protocolo_gait.ind" "protocolo_gait" 1402942981
   "protocolo_gait.idx" 1402942980 734 1032226d52b977dd9d5bb3918d6c350b ""
   (generated)
@@ -7,6 +8,16 @@
 ["pdflatex"] 1402942980 "/Users/Biomecatronica/Dropbox/steps/biomecatronica/protocolos/latex/protocolo_gait.tex" "/Users/Biomecatronica/Dropbox/steps/biomecatronica/protocolos/latex/protocolo_gait.pdf" "protocolo_gait" 1402942981
   "/Users/Biomecatronica/Dropbox/steps/biomecatronica/protocolos/latex/protocolo_gait.aux" 1402942980 1435 d0888be9f60497af2823aa48875ef1ce ""
   "/Users/Biomecatronica/Dropbox/steps/biomecatronica/protocolos/latex/protocolo_gait.tex" 1402942978 4609 a173b3714fcb68e74d3fb4f33fd91733 ""
+=======
+["makeindex protocolo_gait.idx"] 1407242030 "protocolo_gait.idx" "protocolo_gait.ind" "protocolo_gait" 1407812920
+  "protocolo_gait.idx" 1407786835 734 1032226d52b977dd9d5bb3918d6c350b ""
+  (generated)
+  "protocolo_gait.ilg"
+  "protocolo_gait.ind"
+["pdflatex"] 1407786834 "/Users/Rafael/steps/biomecatronica/protocolos/latex/protocolo_gait.tex" "/Users/Rafael/steps/biomecatronica/protocolos/latex/protocolo_gait.pdf" "protocolo_gait" 1407812920
+  "/Users/Rafael/steps/biomecatronica/protocolos/latex/protocolo_gait.aux" 1407786835 1408 20590d4959a3b84689b7bc69b299a371 ""
+  "/Users/Rafael/steps/biomecatronica/protocolos/latex/protocolo_gait.tex" 1407269065 4613 05bea4657c4ac0d7b1d15f5c5d0c69a4 ""
+>>>>>>> FETCH_HEAD
   "/usr/local/texlive/2013/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -63,12 +74,21 @@
   "/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1369923225 1072746 3ce1f23f203cb4a0015ca3c8411dee4a ""
   "/usr/local/texlive/2013/texmf-var/web2c/pdftex/pdflatex.fmt" 1369923264 3827029 ad4432546849f432c3154779662c76c8 ""
   "/usr/local/texlive/2013/texmf.cnf" 1369923207 577 cbc827f6294276973a1952e86e8ad73a ""
+<<<<<<< HEAD
   "16_06_14_gait_experiment_metron_emg.tex" 1402942831 5711 c4bc4187bb1d2a40d1a403c4b4b34b34 ""
   "labbook.cls" 1402942162 19963 f1a16f7e3caedbfe7ebdc5b33c88b0b3 ""
   "protocolo_gait.aux" 1402942980 1435 d0888be9f60497af2823aa48875ef1ce ""
   "protocolo_gait.ind" 1402942162 169 5315c3bed039cc1a97851c4fd011967f "makeindex protocolo_gait.idx"
   "protocolo_gait.out" 1402942980 241 3b6ea15d903a0b9d238f2bfe391fb831 ""
   "protocolo_gait.tex" 1402942978 4609 a173b3714fcb68e74d3fb4f33fd91733 ""
+=======
+  "28_07_14_gait_experiment_metron_emg.tex" 1407786830 6309 230027e1c63ed323297798b4ef88ff70 ""
+  "labbook.cls" 1402797315 19963 f1a16f7e3caedbfe7ebdc5b33c88b0b3 ""
+  "protocolo_gait.aux" 1407786835 1408 20590d4959a3b84689b7bc69b299a371 ""
+  "protocolo_gait.ind" 1407242030 169 5315c3bed039cc1a97851c4fd011967f "makeindex protocolo_gait.idx"
+  "protocolo_gait.out" 1407786835 214 a817eb225f6667f3bc0a8b4745bf8cfe ""
+  "protocolo_gait.tex" 1407269065 4613 05bea4657c4ac0d7b1d15f5c5d0c69a4 ""
+>>>>>>> FETCH_HEAD
   (generated)
   "protocolo_gait.toc"
   "/Users/Biomecatronica/Dropbox/steps/biomecatronica/protocolos/latex/protocolo_gait.log"

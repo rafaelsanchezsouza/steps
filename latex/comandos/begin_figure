@@ -1,0 +1,8 @@
+See figure~\ref{fig:test} on page~\pageref{fig:test}.
+
+\begin{figure}[h]
+\centering
+        \includegraphics[width=\textwidth]{pics/lower_upper_exo.png}
+        \caption{Exoesqueleto de membro superior e exoesqueleto de membro inferior}
+        \label{fig:lower_upper_exo}
+\end{figure}

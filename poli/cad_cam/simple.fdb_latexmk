@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex simple"] 1402776145 "simple.aux" "simple.bbl" "simple" 1402776147
+["bibtex simple"] 1403021333 "simple.aux" "simple.bbl" "simple" 1404935713
   "/usr/local/texlive/2013/texmf-dist/bibtex/bst/base/abbrv.bst" 1292289607 20329 b5fed53e10044d0f8112183785c759b1 ""
-  "simple.aux" 1402776146 846 d1453a7bc44199f6ab5394c70a9830bb ""
+  "simple.aux" 1403021334 1634 8ccb58b9ce2a730e0d49c358c3eeae47 ""
   "simple.bcf" 0 -1 0 ""
-  "simple.bib" 1036006308 200 11df6912367a1504a4f9d789d31e7123 ""
+  "simple.bib" 1402797315 200 11df6912367a1504a4f9d789d31e7123 ""
   (generated)
   "simple.blg"
   "simple.bbl"
-["pdflatex"] 1402776146 "/Users/Rafael/steps/poli/cad_cam/simple.tex" "/Users/Rafael/steps/poli/cad_cam/simple.pdf" "simple" 1402776147
-  "/Users/Rafael/steps/poli/cad_cam/simple.aux" 1402776146 846 d1453a7bc44199f6ab5394c70a9830bb ""
-  "/Users/Rafael/steps/poli/cad_cam/simple.tex" 1402776143 1477 fc64c0001861beae54d9346895c9c9ab ""
+["pdflatex"] 1403021333 "/Users/Rafael/steps/poli/cad_cam/simple.tex" "/Users/Rafael/steps/poli/cad_cam/simple.pdf" "simple" 1404935713
+  "/Users/Rafael/steps/poli/cad_cam/simple.aux" 1403021334 1634 8ccb58b9ce2a730e0d49c358c3eeae47 ""
+  "/Users/Rafael/steps/poli/cad_cam/simple.tex" 1403393524 1487 172462ff5ff48f5bc7625b882b35ed03 ""
   "/usr/local/texlive/2013/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -44,9 +44,10 @@
   "/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1369923225 1072746 3ce1f23f203cb4a0015ca3c8411dee4a ""
   "/usr/local/texlive/2013/texmf-var/web2c/pdftex/pdflatex.fmt" 1396789382 3827028 a0287ca67a35be31cde2a0232245e8f7 ""
   "/usr/local/texlive/2013/texmf.cnf" 1369923207 577 cbc827f6294276973a1952e86e8ad73a ""
-  "simple.aux" 1402776146 846 d1453a7bc44199f6ab5394c70a9830bb ""
-  "simple.bbl" 1402776146 165 bebad9dcf44170f44ce1cb4513f3d021 "bibtex simple"
-  "simple.tex" 1402776143 1477 fc64c0001861beae54d9346895c9c9ab ""
+  "provas_cam.tex" 1403021328 2505 49c0ecb82f4e7a1ba1fd561db61c3805 ""
+  "simple.aux" 1403021334 1634 8ccb58b9ce2a730e0d49c358c3eeae47 ""
+  "simple.bbl" 1403021333 165 bebad9dcf44170f44ce1cb4513f3d021 "bibtex simple"
+  "simple.tex" 1403393524 1487 172462ff5ff48f5bc7625b882b35ed03 ""
   (generated)
   "/Users/Rafael/steps/poli/cad_cam/simple.log"
   "/Users/Rafael/steps/poli/cad_cam/simple.pdf"

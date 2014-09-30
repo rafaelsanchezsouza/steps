@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  16 JUN 2014 15:23
+=======
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.6)  11 AUG 2014 16:53
+>>>>>>> FETCH_HEAD
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -351,8 +355,13 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+<<<<<<< HEAD
 (/Users/Biomecatronica/Dropbox/steps/biomecatronica/protocolos/latex/16_06_14_g
 ait_experiment_metron_emg.tex
+=======
+(/Users/Rafael/steps/biomecatronica/protocolos/latex/28_07_14_gait_experiment_m
+etron_emg.tex
+>>>>>>> FETCH_HEAD
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
@@ -385,7 +394,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--25
 
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Overfull \hbox (29.67613pt too wide) in paragraph at lines 107--108
+Overfull \hbox (29.67613pt too wide) in paragraph at lines 109--110
 []\OT1/cmr/m/n/10.95 Ligar Soft-ware do Metronomo (``C:Users/Bioroblap/Desktop/
 Gait/Metronomo/Program
  []
@@ -400,27 +409,45 @@ gait.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 124.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 124.
 Package rerunfilecheck Info: File `protocolo_gait.out' has not changed.
+<<<<<<< HEAD
 (rerunfilecheck)             Checksum: 3B6EA15D903A0B9D238F2BFE391FB831;241.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 124.
  ) 
 Here is how much of TeX's memory you used:
  7048 strings out of 493315
  109205 string characters out of 6137904
+=======
+(rerunfilecheck)             Checksum: A817EB225F6667F3BC0A8B4745BF8CFE;214.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 124.
+ ) 
+Here is how much of TeX's memory you used:
+ 7051 strings out of 493315
+ 108977 string characters out of 6137905
+>>>>>>> FETCH_HEAD
  312030 words of memory out of 5000000
- 10360 multiletter control sequences out of 15000+600000
+ 10361 multiletter control sequences out of 15000+600000
  6045 words of font info for 22 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
+<<<<<<< HEAD
  41i,8n,52p,342b,562s stack positions out of 5000i,500n,10000p,200000b,80000s
+=======
+ 41i,8n,52p,326b,521s stack positions out of 5000i,500n,10000p,200000b,80000s
+>>>>>>> FETCH_HEAD
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></
 usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><
 /usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+<<<<<<< HEAD
 Output written on /Users/Biomecatronica/Dropbox/steps/biomecatronica/protocolos
 /latex/protocolo_gait.pdf (5 pages, 71911 bytes).
+=======
+Output written on /Users/Rafael/steps/biomecatronica/protocolos/latex/protocolo
+_gait.pdf (5 pages, 68902 bytes).
+>>>>>>> FETCH_HEAD
 PDF statistics:
- 154 PDF objects out of 1000 (max. 8388607)
- 140 compressed objects within 2 object streams
- 83 named destinations out of 1000 (max. 500000)
+ 157 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
+ 85 named destinations out of 1000 (max. 500000)
  25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
