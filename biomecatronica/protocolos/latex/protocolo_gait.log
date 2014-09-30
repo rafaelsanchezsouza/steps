@@ -1,12 +1,17 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.6)  11 JUN 2014 19:34
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  16 JUN 2014 15:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/Users/Rafael/steps/biomecatronica/protocolos/latex/protocolo_gait.tex
-(/Users/Rafael/steps/biomecatronica/protocolos/latex/protocolo_gait.tex
+**/Users/Biomecatronica/Dropbox/steps/biomecatronica/protocolos/latex/protocolo
+_gait.tex
+
+(/Users/Biomecatronica/Dropbox/steps/biomecatronica/protocolos/latex/protocolo_
+gait.tex
 LaTeX2e <2011/06/27>
 Babel <3.9f> and hyphenation patterns for 78 languages loaded.
-(/Users/Rafael/steps/biomecatronica/protocolos/latex/labbook.cls
+
+(/Users/Biomecatronica/Dropbox/steps/biomecatronica/protocolos/latex/labbook.cl
+s
 Document Class: labbook 2003/05/20 v1.1 LaTeX2e labbook document class
 (/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/scrbook.cls
 Document Class: scrbook 2012/07/29 v3.11b KOMA-Script document class (book)
@@ -274,7 +279,9 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 ) (/usr/local/texlive/2013/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count110
-) (/Users/Rafael/steps/biomecatronica/protocolos/latex/protocolo_gait.aux)
+)
+(/Users/Biomecatronica/Dropbox/steps/biomecatronica/protocolos/latex/protocolo_
+gait.aux)
 \openout1 = `protocolo_gait.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
@@ -310,8 +317,11 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 76.
 LaTeX Info: Redefining \pageref on input line 76.
 LaTeX Info: Redefining \nameref on input line 76.
-(/Users/Rafael/steps/biomecatronica/protocolos/latex/protocolo_gait.out) (/User
-s/Rafael/steps/biomecatronica/protocolos/latex/protocolo_gait.out)
+
+(/Users/Biomecatronica/Dropbox/steps/biomecatronica/protocolos/latex/protocolo_
+gait.out)
+(/Users/Biomecatronica/Dropbox/steps/biomecatronica/protocolos/latex/protocolo_
+gait.out)
 \@outlinefile=\write4
 \openout4 = `protocolo_gait.out'.
 
@@ -341,8 +351,8 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-(/Users/Rafael/steps/biomecatronica/protocolos/latex/12_06_14_gait_experiment_m
-etron_emg.tex
+(/Users/Biomecatronica/Dropbox/steps/biomecatronica/protocolos/latex/16_06_14_g
+ait_experiment_metron_emg.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
@@ -384,28 +394,30 @@ Gait/Metronomo/Program
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 124.
 [5]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 124.
-(/Users/Rafael/steps/biomecatronica/protocolos/latex/protocolo_gait.aux)
+
+(/Users/Biomecatronica/Dropbox/steps/biomecatronica/protocolos/latex/protocolo_
+gait.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 124.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 124.
 Package rerunfilecheck Info: File `protocolo_gait.out' has not changed.
-(rerunfilecheck)             Checksum: 9EB1F60B4FA8EB3AB69435F3B661C7F3;240.
+(rerunfilecheck)             Checksum: 3B6EA15D903A0B9D238F2BFE391FB831;241.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 124.
  ) 
 Here is how much of TeX's memory you used:
  7048 strings out of 493315
- 108933 string characters out of 6137905
+ 109205 string characters out of 6137904
  312030 words of memory out of 5000000
  10360 multiletter control sequences out of 15000+600000
  6045 words of font info for 22 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,8n,52p,326b,562s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,8n,52p,342b,562s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></
 usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><
 /usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on /Users/Rafael/steps/biomecatronica/protocolos/latex/protocolo
-_gait.pdf (5 pages, 71376 bytes).
+Output written on /Users/Biomecatronica/Dropbox/steps/biomecatronica/protocolos
+/latex/protocolo_gait.pdf (5 pages, 71911 bytes).
 PDF statistics:
  154 PDF objects out of 1000 (max. 8388607)
  140 compressed objects within 2 object streams
