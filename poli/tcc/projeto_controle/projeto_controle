@@ -1,15 +1,49 @@
-Controles TÃ­picos de Processos
+Controles Típicos de Processos
 
 Pag 8
-Controle em Malha fechada pode ser definido em dois principais tipos de aplicaÃ§Ãµes
-	RegulatÃ³rio
+Controle em Malha fechada pode ser definido em dois principais tipos de aplicações
+	Regulatório
 	Servo
 
-Nosso sistema de controle serÃ¡ regulatÃ³rio: define-se um "setpoint" desejado e tentaremos manter a temperatura a mais prÃ³xima possÃ­vel deste valor.
+Nosso sistema de controle será regulatório: define-se um "setpoint" desejado e tentaremos manter a temperatura a mais próxima possível deste valor.
 
 Pag 10
 As fases de um projeto de um sistema de controle
-	Projeto BÃ¡sico
-	Detalhamento e ImplantaÃ§Ã£o
-	Fase de OperaÃ§Ã£o e ManutenÃ§Ã£o
+	Projeto Básico
+	Detalhamento e Implantação
+	Fase de Operação e Manutenção
+
+PROJETO BÁSICO
+	Análise do Processo
+		Dinâmica do Processo
+			Modelagem do processo
+				Simulação SIMULINK
+			Identificação do sistema
+				Planejamento e execução experimental
+				Seleção da estrutura do modelo
+				Estimação dos parâmetros do modelo
+				Validação
+	Estratégia de controle
+
+DETALHAMENTO E IMPLANTAÇÃO
+	Instalação dos instrumentos e malhas de controle
+	Estratégia em eventual falha dos controladores
+
+FASE DE OPERAÇÃO
+	Requisitos
+		Estratégia de controle
+		Dinâmica do processo
+		Algorítimo de controle
+		Critério de desempenho
+
+PID
+	Proporcional
+		Saída é proporcional a E(t)
+		Kp
+	Proporcional e Integral
+		Proporcional também à integral do erro
+
+
+
+
 
