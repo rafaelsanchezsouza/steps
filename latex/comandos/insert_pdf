@@ -1,0 +1,3 @@
+\usepackage{pdfpages}
+
+\includepdf[pages={1}]{myfile.pdf}
