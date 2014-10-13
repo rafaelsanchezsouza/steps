@@ -1,20 +1,55 @@
 TODO
 
+EXOESQUELETO
+	Mapa de tarefas [commitar]
+	Plano de Negócios [começado]
+	Projeto PIPE [iniciar]
+	Pesquisador Responsável: experiencias com o PIPE
+	Engajar
+		Criar apoio confortável
+			Testar software
+				SKANECT
+				ReconstructMe
+				allbodyscan3d - não gostei
+			Conseguir kinetics	
+
 TCC
 	Montar Equipamento
-		Verificar Estrutura
-		Furar Panelas
-		Montar Hidráulica
-		
-	Artigo (Quinta-Feira)
-		Definir abordagem
+		Furar Panelas Fervura (Sensor Temperatura) [falar com Adilsão]
+		Orings [feito]
+		Limpar
+			Detergente
+			Bucha
+			Sanitizante
+		Verificar Filtro - Curto Circuito
+	Infraestrutura
+		Fermentação
+			Recipiente
+			Geladeira do CAM [pegar chave]
+			Termostato
+		Termômetro para calibração [levar]
+		Tomada 220V [pedir Márcio]
+		Maltes/Lúpulo
+	PID
+		Implementação no arduino
+		Leitura em tempo real
+
+
 
 BIOPMR
-	Poster
-	Ler artigo fodão
+	Leitura Tempo Real Arduino -> Exportar CSV
+	Verificar Script Matlab .CSV -> .mat
+	Protocolo Para Experiencias
+		Protocolo para Motive
+
 
 PIPETADORA
-	Ver e-mail
+	Fazer projeto para IC
+	Ferrite
+	Imprimir carretel
+
+OFICINA SÃO SEBÁ
+	Fazer projeto bolsa AEP
 
 INTERNET
 	NET
@@ -25,20 +60,13 @@ INTERNET
 			109,90
 			129,90 sem telefone
 
-
-OFICINA SÃO SEBÁ
-	Fazer projeto freio
-
 CATAVENTO
 	Aguardando pagamento
 	Recuperar solda
 	Fazer modelo de relatório (adaptar protocolo)	
 
-AULAS PARTICULARES
-	Buscar Cartão
-
 ROBÓTICA
-	Deduzir Variação no Tempo
+	Trabalho
 	Fazer modelo de aula (adaptar modelo experimento)
 
 TERMODINÂMICA
@@ -50,17 +78,6 @@ PHYTON
 
 ALEMÃO
 	LER
-
-EXOESQUELETO
-	Engajar
-		Criar apoio confortável
-			Testar software
-				SKANECT
-				ReconstructMe
-				allbodyscan3d - não gostei
-			Conseguir kinetics
-	Projeto PIPE
-
 
 	Mestrado -> Projeto
 		Ver artigos BIOROB

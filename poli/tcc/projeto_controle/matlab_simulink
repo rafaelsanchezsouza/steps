@@ -1,5 +1,9 @@
 http://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=ControlPID
 
+T(s)/P(s)=1/(mcs+hA)
+
+T(t)=P/hA(1-e^((-t)(mc/hA)^(-1)))
+
 m = 80kg
 h = 0.0263 W/mk
 c = 1 cal/k
