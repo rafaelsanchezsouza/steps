@@ -1,0 +1,7082 @@
+
+On Loop = 25
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:28:30
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 26
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:28:58
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 27
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:29:26
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 28
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:29:54
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 29
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:30:21
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 30
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:30:49
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 31
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:31:17
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 32
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:31:45
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+Target tmp fnd-20
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 20
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 33
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:32:12
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 34
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:32:40
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 35
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:33:8
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 36
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:33:36
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 37
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:34:3
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 61 %	T: 21 *C
+Delaying
+
+On Loop = 38
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:34:31
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 61 %	T: 21 *C
+Delaying
+
+On Loop = 39
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:34:59
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 61 %	T: 21 *C
+Delaying
+
+On Loop = 40
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:35:27
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 61 %	T: 21 *C
+Delaying
+
+On Loop = 41
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:35:55
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 61 %	T: 21 *C
+Delaying
+
+On Loop = 42
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:36:23
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 61 %	T: 21 *C
+Delaying
+
+On Loop = 43
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:36:50
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 61 %	T: 21 *C
+Delaying
+
+On Loop = 44
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:37:18
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 61 %	T: 21 *C
+Delaying
+
+On Loop = 45
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:37:46
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 61 %	T: 21 *C
+Delaying
+
+On Loop = 46
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:38:14
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 61 %	T: 21 *C
+Delaying
+
+On Loop = 47
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:38:42
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 61 %	T: 21 *C
+Delaying
+
+On Loop = 48
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:39:10
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 61 %	T: 21 *C
+Delaying
+
+On Loop = 49
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:39:38
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 61 %	T: 21 *C
+Delaying
+
+On Loop = 50
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:40:6
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 61 %	T: 21 *C
+Delaying
+
+On Loop = 51
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:40:34
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 61 %	T: 21 *C
+Delaying
+
+On Loop = 52
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:41:2
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 53
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:41:30
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 54
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:41:57
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 55
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:42:25
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 56
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:42:53
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 57
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:43:21
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 58
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:43:49
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 59
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:44:17
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 60
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:44:45
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 61
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:45:13
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 62
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:45:41
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 62 %	T: 20 *C
+Delaying
+
+On Loop = 63
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:46:9
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 64
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:46:36
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 65
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:47:4
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 66
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:47:32
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 67
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:48:0
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 68
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:48:28
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 69
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:48:56
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 70
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:49:24
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 71
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:49:52
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 72
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:50:19
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 73
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:50:47
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 74
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:51:15
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 75
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:51:43
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 76
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:52:11
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 77
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:52:39
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 78
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:53:7
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 79
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:53:35
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 80
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:54:3
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 81
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:54:31
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 82
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:54:59
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 83
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:55:26
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 84
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:55:54
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 85
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:56:22
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 86
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:56:50
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 87
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:57:18
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 88
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:57:46
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 89
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:58:14
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 90
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:58:42
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 91
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:59:9
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 92
+NTP sent..NTP read..2012 DS=F
+Using NTP 12-5-2012 23:59:37
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 93
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:0:5
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 94
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:0:33
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 95
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:1:1
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 96
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:1:29
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 97
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:1:57
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 98
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:2:25
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 99
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:2:53
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 100
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:3:21
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 101
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:3:49
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 102
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:4:17
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 103
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:4:44
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 104
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:5:12
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 105
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:5:40
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 63 %	T: 20 *C
+Delaying
+
+On Loop = 106
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:6:8
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 107
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:6:34
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 108
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:7:2
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 109
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:7:30
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 110
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:7:58
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 111
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:8:26
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 112
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:8:54
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 113
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:9:22
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 114
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:9:50
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 115
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:10:18
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 116
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:10:46
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 117
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:11:13
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 118
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:11:41
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 119
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:12:9
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 120
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:12:37
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 121
+NTP sent..Using RTC 0-0-2000 0:10:4
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 122
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:13:31
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 123
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:13:59
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 124
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:14:27
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 125
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:14:55
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 126
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:15:23
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 127
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:15:51
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 128
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:16:19
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 129
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:16:47
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 130
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:17:15
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 131
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:17:43
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 132
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:18:11
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 133
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:18:39
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 134
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:19:7
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 135
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:19:33
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 136
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:20:1
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 137
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:20:29
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 138
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:20:57
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 139
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:21:25
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 140
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:21:53
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 141
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:22:20
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 142
+NTP sent..Using RTC 0-0-2000 0:19:47
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 143
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:23:15
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 64 %	T: 20 *C
+Delaying
+
+On Loop = 144
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:23:42
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 145
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:24:10
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 146
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:24:38
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 147
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:25:6
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 148
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:25:34
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 149
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:26:2
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 150
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:26:30
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 151
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:26:57
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 152
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:27:26
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 153
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:27:54
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 154
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:28:22
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 155
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:28:50
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 156
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:29:17
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 157
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:29:45
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 158
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:30:13
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 159
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:30:41
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 160
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:31:9
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 161
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:31:37
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 162
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:32:5
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 163
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:32:33
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 164
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:33:1
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 165
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:33:29
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 166
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:33:57
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 167
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:34:25
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 168
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:34:53
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 169
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:35:20
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 170
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:35:48
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 171
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:36:16
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 172
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:36:44
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 173
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:37:12
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 174
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:37:40
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 175
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:38:8
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 176
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:38:36
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 177
+NTP sent..Using RTC 0-0-2000 0:36:3
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 178
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:39:30
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 179
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:39:58
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 180
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:40:26
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 181
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:40:54
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 182
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:41:22
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 183
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:41:50
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 184
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:42:18
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 20 *C
+Delaying
+
+On Loop = 185
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:42:46
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 186
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:43:14
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 187
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:43:41
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 188
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:44:9
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 189
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:44:37
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 190
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:45:4
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 191
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:45:32
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 192
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:46:0
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 193
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:46:28
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 194
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:46:56
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 195
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:47:24
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 196
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:47:51
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 197
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:48:19
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 198
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:48:47
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 199
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:49:15
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 200
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:49:43
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 201
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:50:11
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 202
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:50:39
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 203
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:51:6
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 204
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:51:34
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 205
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:52:2
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 206
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:52:30
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 207
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:52:58
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 208
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:53:26
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 209
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:53:54
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 210
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:54:21
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 211
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:54:47
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 212
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:55:15
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 213
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:55:43
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 214
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:56:11
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 215
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:56:39
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 216
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:57:7
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 217
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:57:35
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 218
+NTP sent..Using RTC 0-0-2000 0:55:1
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 219
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:58:29
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 220
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:58:57
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 221
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:59:25
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 222
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 0:59:53
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 223
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:0:21
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 224
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:0:49
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 225
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:1:17
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 226
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:1:45
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 227
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:2:13
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 228
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:2:40
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 229
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:3:8
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 230
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:3:36
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 231
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:4:4
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 232
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:4:32
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 233
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:5:0
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 234
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:5:28
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 235
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:5:56
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 236
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:6:24
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 237
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:6:52
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 238
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:7:20
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 239
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:7:48
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 240
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:8:16
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 241
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:8:44
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 242
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:9:12
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 243
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:9:40
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 244
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:10:8
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 245
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:10:36
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 246
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:11:4
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 247
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:11:31
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 248
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:11:59
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 249
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:12:27
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 250
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:12:55
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 251
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:13:23
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 252
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:13:51
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 253
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:14:19
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 254
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:14:46
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 255
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:15:15
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 256
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:15:43
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 257
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:16:11
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 258
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:16:38
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 259
+NTP sent..Using RTC 0-0-2000 0:14:5
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 260
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:17:33
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 261
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:18:0
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+
+Timeout
+TURNON found
+Target Temp is 19
+H: 65 %	T: 19 *C
+Delaying
+
+On Loop = 262
+NTP sent..NTP read..2012 DS=F
+Using NTP 13-5-2012 1:18:29
+Connection to Google...Established
+Read google reply..
+L1
+L1
+L2
+L2
+L1
+L1
+L1
+Target tmp fnd-19
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
+L1
