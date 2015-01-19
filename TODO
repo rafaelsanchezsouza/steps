@@ -1,90 +1,29 @@
 TODO
 
-EXOESQUELETO
-	Mapa de tarefas [commitar]
-	Plano de NegÛcios [comeÁado]
-	Projeto PIPE [iniciar]
-	Pesquisador Respons·vel: experiencias com o PIPE
-	Engajar
-		Criar apoio confort·vel
-			Testar software
-				SKANECT
-				ReconstructMe
-				allbodyscan3d - n„o gostei
-			Conseguir kinetics	
 
-TCC
-	Montar Equipamento
-		Furar Panelas Fervura (Sensor Temperatura) [falar com Adils„o]
-		Orings [feito]
-		Limpar
-			Detergente
-			Bucha
-			Sanitizante
-		Verificar Filtro - Curto Circuito
-	Infraestrutura
-		FermentaÁ„o
-			Recipiente
-			Geladeira do CAM [pegar chave]
-			Termostato
-		TermÙmetro para calibraÁ„o [levar]
-		Tomada 220V [pedir M·rcio]
-		Maltes/L˙pulo
-	PID
-		ImplementaÁ„o no arduino
-		Leitura em tempo real
+BRAU
+	Relat√≥rio Brassagem #2
 
+	Melhorias Projeto
 
 
 BIOPMR
-	Leitura Tempo Real Arduino -> Exportar CSV
-	Verificar Script Matlab .CSV -> .mat
-	Protocolo Para Experiencias
-		Protocolo para Motive
+	Corrigir IC
 
 PIPETADORA
-	Fazer projeto para IC
-	Ferrite
-	Imprimir carretel
-
-OFICINA S√O SEB¡
-	Fazer projeto bolsa AEP
-
-INTERNET
-	NET
-		003141968166529
-		DÈbora
-			003141968173079
-			30 MEGA
-			109,90
-			129,90 sem telefone
-
+	
 CATAVENTO
-	Aguardando pagamento
-	Recuperar solda
-	Fazer modelo de relatÛrio (adaptar protocolo)	
+	Dia 31/03 - Audi√™ncia
 
-ROB”TICA
-	Trabalho
-	Fazer modelo de aula (adaptar modelo experimento)
-
-TERMODIN¬MICA
-	Conversar Guenther
+TERMODIN√ÇMICA
+	Ecnontrar Layout Caderno
 
 PHYTON
 	ESTUDAR
 	http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/index.htm
 
-ALEM√O
+ALEM√ÉO
 	LER
-
-	Mestrado -> Projeto
-		Ver artigos BIOROB
-
-CAFH
-	Applicativo
-
-
 
 CURSOS
 	Phyton
@@ -92,3 +31,16 @@ CURSOS
 
 	Game Design
 		http://ocw.mit.edu/courses/comparative-media-studies/cms-608-game-design-fall-2010/
+		
+EXOESQUELETO
+	Mapa de tarefas [commitar]
+	Plano de Neg√≥cios [come√ßado]
+	Projeto PIPE [iniciar]
+	Pesquisador Respons√°vel: experiencias com o PIPE
+	Engajar
+		Criar apoio confort√°vel
+			Testar software
+				SKANECT
+				ReconstructMe
+				allbodyscan3d - n√£o gostei
+			Conseguir kinetics	
