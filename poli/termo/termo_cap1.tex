@@ -1,0 +1,87 @@
+\documentclass[12pt]{article}
+\usepackage[latin1]{inputenc}
+\usepackage[brazil]{babel}
+
+\title{Termodinâmica - Van Wylen Cap.1}
+\author{
+        Rafael Sanchez Souza \\
+                Engenharia Mecatrônica\\
+        São Paulo, \underline{Brazil}            
+}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Anotações do Livro Van Wylen
+\end{abstract}
+
+\section{Ciclo de Rankine - ou Ciclo de Potência de Vapor}
+
+\subsection{Hipóteses}
+\begin{itemize}
+	\item Transferência de Energia é positiva no sentido horário
+	\item Cada componente do ciclo é analizado como um volume de controle.
+	\item Processos do fluido de trabalho são reversíveis
+	\item Turbina e Bomba trabalham adiabaticamente
+	\item Efeitos de Energia Potencial e Cinética desprezíveis
+	\item Vapor Saturado entra na turbina. 
+	\item Líquido saturado sai do Condensador \\
+\end{itemize}
+
+CICLO IDEAL
+\begin{itemize}
+	\item Pressão constante na linha
+	\item Isentrópico
+\end{itemize}
+
+\subsection{Algumas relações}
+\paragraph{Turbina}
+Vapor a alta temperatura e pressão expande produzindo trabalho
+\[\frac{\dot{W_t}}{\dot{m}}=h_1-h_2\]
+
+\paragraph{Condensador}
+Transferência de calor entre vapor e líquido refrigerante
+\[\frac{\dot{Q_{out}}}{\dot{m}}=h_2-h_3\]
+
+\paragraph{Bomba}
+O líquido condensado é bombeado para o Boiler
+\[\frac{\dot{W_p}}{\dot{m}}=h_4-h_3\]
+
+Para sistemas reversíveis:
+\[\left(\frac{\dot{Q_{in}}}{\dot{m}}\right)_{int,rev}=v_3(p_4-p_3)\]
+
+\paragraph{Boiler}
+O líquido de trabalho completa o ciclo sendo evaporado
+\[\frac{\dot{Q_{in}}}{\dot{m}}=h_1-h_4\]
+
+\paragraph{Eficiência Térmica}
+\[\eta=\frac{\frac{\dot{W_t}}{\dot{m}}-\frac{\dot{W_p}}{\dot{m}}}{\frac{\dot{Q_{in}}}{\dot{m}}}=1-\frac{\frac{\dot{Q_{out}}}{\dot{m}}}{\frac{\dot{Q_{in}}}{\dot{m}}}=1-\frac{(h_2-h_3)}{(h_1-h_4)}\]
+
+\paragraph{[Van Wylen] Exercício 11.18}
+Encontrar:
+\begin{itemize}
+	\item Trabalho Específico
+	\item Transferência de calor entre componentes
+	\item Eficiência do Ciclo
+\end{itemize}
+
+NÃO RESOLVIDO!
+
+\paragraph{[Van Wylen] Exercício 11.24}
+Encontrar:
+\begin{itemize}
+	\item 
+	\item 
+	\item 
+\end{itemize}
+
+\section{Conclusions}\label{conclusions}
+We worked hard, and achieved very little.
+
+\bibliographystyle{abbrv}
+%\bibliography{simple}
+
+\end{document}
+This is never printed
