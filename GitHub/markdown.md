@@ -6,7 +6,7 @@
   
   [Dark][github 2] and [yellow][github 3] theme available.
   
-  ## Overview
+## Overview
   
   * [Features](#features)
   * [Key Bindings](#key-bindings)
@@ -22,7 +22,7 @@
   * [Donation](#donation)
   * [License](#license)
   
-  ## Features
+## Features
   
   * Asterisks and underscores are autopaired and will wrap selected text
       - If you start an empty pair and hit backspace, both elements are deleted
