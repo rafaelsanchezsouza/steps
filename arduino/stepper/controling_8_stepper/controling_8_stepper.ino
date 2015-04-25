@@ -11,12 +11,6 @@ int vel8 = 10; //velocidade motor 8; valores acima de 8
 
 // variaveis auxiliares (nao mexer)
 int atraso = (40000-3500*vel)/100;
-int contador_1 = 0;
-int contador_2 = 0;
-static int cont_passos_1_high = 8;
-static int cont_passos_1_low = 8;
-static int cont_passos_2_high = 8;
-static int cont_passos_2_low = 8;
 int passos_temp1 = 0;
 int passos_temp2 = 0;
 int passos_temp3 = 0;
@@ -44,7 +38,7 @@ int para_motor_6 = 40;
 int para_motor_7 = 40;
 int para_motor_8 = 40;
 
-// botao para ligar motores
+// botao para ativar motores
 int pinoBotao = 38;
 int botao = 0;
 
@@ -123,7 +117,7 @@ void loop(){
 
     step_1(
     false, pinoDirecao1, pinoPassos1, 
-    false, pinoDirecao2, pinoPassos2, 
+    true, pinoDirecao2, pinoPassos2, 
     true, pinoDirecao3, pinoPassos3, 
     false, pinoDirecao4, pinoPassos4, 
     true, pinoDirecao5, pinoPassos5, 
@@ -153,7 +147,7 @@ void loop(){
     
        step_2(
        false, pinoDirecao1, pinoPassos1, 
-       false, pinoDirecao2, pinoPassos2, 
+       true, pinoDirecao2, pinoPassos2, 
        true, pinoDirecao3, pinoPassos3, 
        false, pinoDirecao4, pinoPassos4, 
        true, pinoDirecao5, pinoPassos5, 
@@ -229,6 +223,14 @@ int atraso
     
     if((cont2==0)&&(passos2<500)){
       digitalWrite(pinoPassos2,HIGH);
+    }
+    
+    if((cont3==0)&&(passos3<500)){
+      digitalWrite(pinoPassos3,HIGH);
+    }
+    
+    if((cont4==0)&&(passos4<500)){
+      digitalWrite(pinoPassos4,HIGH);
     }
 
     delayMicroseconds(atraso);
