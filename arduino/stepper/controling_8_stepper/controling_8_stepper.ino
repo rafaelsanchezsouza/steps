@@ -147,6 +147,9 @@ void loop(){
        passos_temp6=passos6;
        passos_temp7=passos7;
        passos_temp8=passos8;
+       
+    Serial.println("sensor = ");
+    Serial.println(sensor);    
     
        step_2(
        false, pinoDirecao1, pinoPassos1, 
@@ -296,11 +299,14 @@ int atraso
   passos7 = 0;
   passos8 = 0;
   sensor = LOW;
-  cont2 = cont1;
+  cont2 = vel2;
+  cont1 = vel1;
   delay(200);
 
   for(int i=0;i<loops;i++){
 
+          Serial.println("ENTROU");
+          
     if((cont1==0)&&(passos1<200)){
       digitalWrite(pinoPassos1,HIGH);
     }
