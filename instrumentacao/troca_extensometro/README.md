@@ -12,7 +12,7 @@ tags: extensômetro strain gauge instrumentação
 
 # Introdução
 
-> Still trying to find out what this is
+> Extensômetros são componentes de instrumentação utilizados para medir a deformação de materiais. 
 
 
 
