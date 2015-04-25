@@ -30,7 +30,7 @@ static int cont8 = vel8;
 
 // referencias
 int para_motor_1 = 40;
-int para_motor_2 = 1015;
+int para_motor_2 = 400;
 int para_motor_3 = 1015;
 int liga_motor_4 = 200; //numero referente ao numero de passos dado pelo motor2
 int para_motor_5 = 40;
@@ -139,17 +139,17 @@ void loop(){
        passos_temp7=passos7;
        passos_temp8=passos8; 
     
-       step_2(
-       false, pinoDirecao1, pinoPassos1, 
-       true, pinoDirecao2, pinoPassos2, 
-       true, pinoDirecao3, pinoPassos3, 
-       false, pinoDirecao4, pinoPassos4, 
-       true, pinoDirecao5, pinoPassos5, 
-       true, pinoDirecao6, pinoPassos6, 
-       true, pinoDirecao7, pinoPassos7, 
-       true, pinoDirecao8, pinoPassos8,
-       5000, 
-       atraso);
+//       step_2(
+//       false, pinoDirecao1, pinoPassos1, 
+//       true, pinoDirecao2, pinoPassos2, 
+//       true, pinoDirecao3, pinoPassos3, 
+//       false, pinoDirecao4, pinoPassos4, 
+//       true, pinoDirecao5, pinoPassos5, 
+//       true, pinoDirecao6, pinoPassos6, 
+//       true, pinoDirecao7, pinoPassos7, 
+//       true, pinoDirecao8, pinoPassos8,
+//       5000, 
+//       atraso);
   }
 }
 
@@ -204,12 +204,11 @@ int atraso
       digitalWrite(pinoPassos3,HIGH);
     }
     
-    if((cont4==0)&&(passos2>100)&&(passos4<200)){
+    if((cont4==0)&&(passos2>100)&&(passos4<280)){
       digitalWrite(pinoPassos4,HIGH);
     }
 
-    if((cont4==0)&&(passos4>199)&&(passos4<280)){
-        delayMicroseconds(200);
+    if((cont4==0)&&(passos4>279)&&(passos4<360)){
         digitalWrite(pinoDirecao4,!dir4);
         digitalWrite(pinoPassos4, HIGH);
         digitalWrite(pinoDirecao4,!dir4);
@@ -253,15 +252,14 @@ int atraso
       cont4--;
     }
     else{
-      if((passos2>100)&&(passos4<200)){
+      if((passos2>100)&&(passos4<280)){
         digitalWrite(pinoPassos4, LOW);
         passos4++;
         cont4 = vel4;
       }
-      if((passos4>199)&&(passos4<280)){
-        delayMicroseconds(200);
+      if((passos4>279)&&(passos4<360)){
         digitalWrite(pinoDirecao4,!dir4);
-        digitalWrite(pinoPassos4, HIGH);
+        digitalWrite(pinoPassos4, LOW);
         digitalWrite(pinoDirecao4,!dir4);
         passos4++;
         cont4 = vel4;        
