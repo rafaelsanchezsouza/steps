@@ -32,7 +32,7 @@ static int cont8 = vel8;
 int para_motor_1 = 40;
 int para_motor_2 = 1015;
 int para_motor_3 = 1015;
-int para_motor_4 = 40;
+int liga_motor_4 = 200; //numero referente ao numero de passos dado pelo motor2
 int para_motor_5 = 40;
 int para_motor_6 = 40;
 int para_motor_7 = 40;
@@ -189,32 +189,36 @@ int atraso
 
   for(int i=0;i<loops;i++){
 
-    if((cont1==0)&&(passos1<200)){
+    if((cont1==0)&&(passos1<para_motor_1)){
       digitalWrite(pinoPassos1,HIGH);
     }
     
-    if((cont2==0)&&(passos2<200)){
+    if((cont2==0)&&(passos1>para_motor_1-1)){
       digitalWrite(pinoPassos2,HIGH);
     }
     
-    if((cont3==0)&&(passos3<500)){
+    if((cont3==0)&&(passos1>para_motor_1-1)){
       digitalWrite(pinoPassos3,HIGH);
     }
     
-    if((cont4==0)&&(passos4<500)){
+    if((cont4==0)&&(passos2>200)&&(passos4<200)){
       digitalWrite(pinoPassos4,HIGH);
     }
+
+    if((cont4==0)&&(passos4>200)&&(passos4<280)){
+        digitalWrite(pinoDirecao4,!dir4);
+        digitalWrite(pinoPassos4, HIGH);
+        digitalWrite(pinoDirecao4,!dir4);
+    } 
 
     delayMicroseconds(atraso);
 
     if(cont1){
       cont1--;
-      //      Serial.println("Entrou cont 1");
     }
     else{
-      if((passos1<200)){
+      if((passos1<para_motor_1)){
         digitalWrite(pinoPassos1, LOW);
-        //        Serial.println("Entrou cont 1_2");        
         passos1++;
         cont1 = vel1;
       }
@@ -224,11 +228,40 @@ int atraso
       cont2--;
     }
     else{
-      if((passos2<200)){
+      if((passos1>para_motor_1-1)){
         digitalWrite(pinoPassos2, LOW);
         passos2++;
         cont2 = vel2;
       }
+    }    
+    if(cont3){
+      cont3--;
+    }
+    else{
+      if((passos1>para_motor_1-1)){
+        digitalWrite(pinoPassos3, LOW);
+        passos3++;
+        cont3 = vel3;
+      }
+    }
+
+    if(cont4){
+      cont4--;
+    }
+    else{
+      if((passos4<200)){
+        digitalWrite(pinoPassos4, LOW);
+        passos4++;
+        cont4 = vel4;
+      }
+      if((passos4>200)&&(passos4<280)){
+        digitalWrite(pinoDirecao4,!dir4);
+        digitalWrite(pinoPassos4, HIGH);
+        digitalWrite(pinoDirecao4,!dir4);
+        passos4++;
+        cont4 = vel4;        
+    } 
+
     }
 
     delayMicroseconds(atraso);
