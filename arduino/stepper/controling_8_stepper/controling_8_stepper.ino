@@ -9,6 +9,17 @@ int vel6 = 10; //velocidade motor 6; valores acima de 8
 int vel7 = 10; //velocidade motor 7; valores acima de 8
 int vel8 = 10; //velocidade motor 8; valores acima de 8
 
+// referencias
+int para_motor_1 = 40;
+int para_motor_2 = 1015;
+int para_motor_3 = 1015;
+int liga_motor_4 = 200; //referente ao numero de passos dado pelo motor2
+int extra_motor_4 = 80; //referente ao avanco extra que o motor 4 da antes de voltar
+int para_motor_5 = 40;
+int para_motor_6 = 40;
+int para_motor_7 = 40;
+int para_motor_8 = 40;
+
 // variaveis auxiliares (nao mexer)
 int atraso = (40000-3500*vel)/100;
 int passos_temp1 = 0;
@@ -27,16 +38,6 @@ static int cont5 = vel5;
 static int cont6 = vel6;
 static int cont7 = vel7;
 static int cont8 = vel8;
-
-// referencias
-int para_motor_1 = 40;
-int para_motor_2 = 400;
-int para_motor_3 = 1015;
-int liga_motor_4 = 200; //numero referente ao numero de passos dado pelo motor2
-int para_motor_5 = 40;
-int para_motor_6 = 40;
-int para_motor_7 = 40;
-int para_motor_8 = 40;
 
 // botao para ativar motores
 int pinoBotao = 38;
@@ -124,7 +125,7 @@ void loop(){
     true, pinoDirecao6, pinoPassos6, 
     true, pinoDirecao7, pinoPassos7, 
     true, pinoDirecao8, pinoPassos8,
-    5000, 
+    7000, 
     atraso);
 
   Serial.println("Passos4 = ");
@@ -188,6 +189,7 @@ int atraso
   passos7= 0;
   passos8= 0;
   sensor = LOW;
+//  passos4=281;
   delay(50);
 
   for(int i=0;i<loops;i++){
@@ -196,7 +198,7 @@ int atraso
       digitalWrite(pinoPassos1,HIGH);
     }
     
-    if((cont2==0)&&(passos1>para_motor_1-1)){
+    if((cont2==0)&&(passos1>para_motor_1-1)&&(passos2<201)){
       digitalWrite(pinoPassos2,HIGH);
     }
     
@@ -204,11 +206,11 @@ int atraso
       digitalWrite(pinoPassos3,HIGH);
     }
     
-    if((cont4==0)&&(passos2>100)&&(passos4<280)){
+    if((cont4==0)&&(passos2>100)&&(passos4<200+extra_motor_4+1)){
       digitalWrite(pinoPassos4,HIGH);
     }
 
-    if((cont4==0)&&(passos4>279)&&(passos4<360)){
+    if((cont4==0)&&(passos4>200+extra_motor_4)&&(passos4<200+2*(extra_motor_4+1))){
         digitalWrite(pinoDirecao4,!dir4);
         digitalWrite(pinoPassos4, HIGH);
         digitalWrite(pinoDirecao4,!dir4);
@@ -231,7 +233,7 @@ int atraso
       cont2--;
     }
     else{
-      if((passos1>para_motor_1-1)){
+      if((passos1>para_motor_1-1)&&(passos2<201)){
         digitalWrite(pinoPassos2, LOW);
         passos2++;
         cont2 = vel2;
@@ -252,12 +254,12 @@ int atraso
       cont4--;
     }
     else{
-      if((passos2>100)&&(passos4<280)){
+      if((passos2>100)&&(passos4<200+extra_motor_4+1)){
         digitalWrite(pinoPassos4, LOW);
         passos4++;
         cont4 = vel4;
       }
-      if((passos4>279)&&(passos4<360)){
+      if((passos4>200+extra_motor_4)&&(passos4<200+2*(extra_motor_4+1))){
         digitalWrite(pinoDirecao4,!dir4);
         digitalWrite(pinoPassos4, LOW);
         digitalWrite(pinoDirecao4,!dir4);
