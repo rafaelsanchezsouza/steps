@@ -127,12 +127,6 @@ void loop(){
     5000, 
     atraso);
 
-//    Serial.println("Passos1 = ");
-//    Serial.println(passos1);
-//    
-//    Serial.println("Passos2 = ");
-//    Serial.println(passos2);
-
        passos_temp1=passos1;
        passos_temp2=passos2;
        passos_temp3=passos3;
@@ -140,10 +134,7 @@ void loop(){
        passos_temp5=passos5;
        passos_temp6=passos6;
        passos_temp7=passos7;
-       passos_temp8=passos8;
-       
-//    Serial.println("sensor = ");
-//    Serial.println(sensor);    
+       passos_temp8=passos8; 
     
        step_2(
        false, pinoDirecao1, pinoPassos1, 
@@ -156,25 +147,6 @@ void loop(){
        true, pinoDirecao8, pinoPassos8,
        5000, 
        atraso);
-
-//    Serial.println("Passos1_2 = ");
-//    Serial.println(passos1);
-//    
-//    Serial.println("Passos2_2 = ");
-//    Serial.println(passos2);
-//
-//    Serial.println("Passos_temp1 = ");
-//    Serial.println(passos_temp1);
-//    
-//    Serial.println("Passos_temp2 = ");
-//    Serial.println(passos_temp2);
-//    
-//    Serial.println("cont1 = ");
-//    Serial.println(cont1);
-//    
-//    Serial.println("cont2 = ");
-//    Serial.println(cont2);
-
   }
 }
 
@@ -204,24 +176,24 @@ int atraso
   digitalWrite(pinoDirecao6,dir6);
   digitalWrite(pinoDirecao7,dir7);
   digitalWrite(pinoDirecao8,dir8);
-//  passos1= 0;
-//  passos2= 0;
-//  passos3= 0;
-//  passos4= 0;
-//  passos5= 0;
-//  passos6= 0;
-//  passos7= 0;
-//  passos8= 0;
-//  sensor = LOW;
+  passos1= 0;
+  passos2= 0;
+  passos3= 0;
+  passos4= 0;
+  passos5= 0;
+  passos6= 0;
+  passos7= 0;
+  passos8= 0;
+  sensor = LOW;
   delay(50);
 
   for(int i=0;i<loops;i++){
 
-    if((cont1==0)&&(passos1<400)){
+    if((cont1==0)&&(passos1<200)){
       digitalWrite(pinoPassos1,HIGH);
     }
     
-    if((cont2==0)&&(passos2<500)){
+    if((cont2==0)&&(passos2<200)){
       digitalWrite(pinoPassos2,HIGH);
     }
     
@@ -240,7 +212,7 @@ int atraso
       //      Serial.println("Entrou cont 1");
     }
     else{
-      if((passos1<400)){
+      if((passos1<200)){
         digitalWrite(pinoPassos1, LOW);
         //        Serial.println("Entrou cont 1_2");        
         passos1++;
@@ -252,7 +224,7 @@ int atraso
       cont2--;
     }
     else{
-      if((passos2<500)){
+      if((passos2<200)){
         digitalWrite(pinoPassos2, LOW);
         passos2++;
         cont2 = vel2;
@@ -291,26 +263,24 @@ int atraso
   digitalWrite(pinoDirecao6,dir6);
   digitalWrite(pinoDirecao7,dir7);
   digitalWrite(pinoDirecao8,dir8);
-  passos1 = 0;
-  passos2 = 0;
-  passos3 = 0;
-  passos4 = 0;
-  passos5 = 0;
-  passos6 = 0;
-  passos7 = 0;
-  passos8 = 0;
-  sensor = LOW;
-  delay(200);
+//  passos1 = 0;
+//  passos2 = 0;
+//  passos3 = 0;
+//  passos4 = 0;
+//  passos5 = 0;
+//  passos6 = 0;
+//  passos7 = 0;
+//  passos8 = 0;
+//  sensor = LOW;
+  delay(5);
 
   for(int i=0;i<loops;i++){
-
-//     Serial.println("ENTROU");
           
     if((cont1==0)&&(passos1<200)){
       digitalWrite(pinoPassos1,HIGH);
     }
     
-    if((cont2==0)&&(passos2<300)){
+    if((cont2==0)&&(passos2<200)){
       digitalWrite(pinoPassos2,HIGH);
     }
 
@@ -333,7 +303,7 @@ int atraso
       cont2--;
     }
     else{
-      if((passos2<300)){
+      if((passos2<200)){
         digitalWrite(pinoPassos2, LOW);
         passos2++;
         cont2 = vel2;
