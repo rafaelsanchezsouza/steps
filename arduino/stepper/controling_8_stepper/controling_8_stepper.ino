@@ -148,11 +148,6 @@ void loop(){
        passos_temp7=passos7;
        passos_temp8=passos8;
        
-       passos1=0;
-       passos2=0;
-       cont1=vel1;
-       cont2=vel2;
-       
 //    Serial.println("sensor = ");
 //    Serial.println(sensor);    
     
@@ -215,15 +210,15 @@ int atraso
   digitalWrite(pinoDirecao6,dir6);
   digitalWrite(pinoDirecao7,dir7);
   digitalWrite(pinoDirecao8,dir8);
-  passos1= 0;
-  passos2= 0;
-  passos3= 0;
-  passos4= 0;
-  passos5= 0;
-  passos6= 0;
-  passos7= 0;
-  passos8= 0;
-  sensor = LOW;
+//  passos1= 0;
+//  passos2= 0;
+//  passos3= 0;
+//  passos4= 0;
+//  passos5= 0;
+//  passos6= 0;
+//  passos7= 0;
+//  passos8= 0;
+//  sensor = LOW;
   delay(50);
 
   for(int i=0;i<loops;i++){
@@ -303,8 +298,6 @@ int atraso
   passos7 = 0;
   passos8 = 0;
   sensor = LOW;
-  cont2 = vel2;
-  cont1 = vel1;
   delay(200);
 
   for(int i=0;i<loops;i++){
@@ -345,6 +338,7 @@ int atraso
       }
     }
 
-    delayMicroseconds(atraso);   
+    delayMicroseconds(atraso);
+   
   }
 }
