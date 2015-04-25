@@ -1,5 +1,5 @@
 // variaveis ajustaveis
-int vel = 5; //determina velocidade geral do sitema; valores de 1 a 10
+int vel = 9; //determina velocidade geral do sitema; valores de 1 a 10
 int vel1 = 10; //velocidade motor 1; valores acima de 8
 int vel2 = 8; //velocidade motor 2; valores acima de 8
 int vel3 = 10; //velocidade motor 3; valores acima de 8
@@ -127,6 +127,9 @@ void loop(){
     5000, 
     atraso);
 
+  Serial.println("Passos4 = ");
+  Serial.println(passos4);
+  
        passos_temp1=passos1;
        passos_temp2=passos2;
        passos_temp3=passos3;
@@ -205,7 +208,8 @@ int atraso
       digitalWrite(pinoPassos4,HIGH);
     }
 
-    if((cont4==0)&&(passos4>200)&&(passos4<280)){
+    if((cont4==0)&&(passos4>199)&&(passos4<280)){
+        delayMicroseconds(200);
         digitalWrite(pinoDirecao4,!dir4);
         digitalWrite(pinoPassos4, HIGH);
         digitalWrite(pinoDirecao4,!dir4);
@@ -254,7 +258,8 @@ int atraso
         passos4++;
         cont4 = vel4;
       }
-      if((passos4>200)&&(passos4<280)){
+      if((passos4>199)&&(passos4<280)){
+        delayMicroseconds(200);
         digitalWrite(pinoDirecao4,!dir4);
         digitalWrite(pinoPassos4, HIGH);
         digitalWrite(pinoDirecao4,!dir4);
