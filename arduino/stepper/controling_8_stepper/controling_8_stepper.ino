@@ -345,12 +345,6 @@ int atraso
       }
     }
 
-    delayMicroseconds(atraso);
-
-    // leitura pelo sensor de posicao 
-    if(sensor == HIGH){
-      sensor = LOW;
-      break;
-    }     
+    delayMicroseconds(atraso);   
   }
 }
