@@ -24,14 +24,6 @@ int para_motor_8 = 40;
 
 // variaveis auxiliares (nao mexer)
 int atraso = (40000-3500*vel)/100;
-int passos_temp1 = 0;
-int passos_temp2 = 0;
-int passos_temp3 = 0;
-int passos_temp4 = 0;
-int passos_temp5 = 0;
-int passos_temp6 = 0;
-int passos_temp7 = 0;
-int passos_temp8 = 0;
 int vel_cont = vel2;
 static int cont1 = vel1;
 static int cont2 = vel2;
@@ -133,15 +125,6 @@ void loop(){
     loops_step_1, 
     atraso);
 
-    passos_temp1=passos1;
-    passos_temp2=passos2;
-    passos_temp3=passos3;
-    passos_temp4=passos4;
-    passos_temp5=passos5;
-    passos_temp6=passos6;
-    passos_temp7=passos7;
-    passos_temp8=passos8; 
-
     step_2(
     false, pinoDirecao1, pinoPassos1, 
     true, pinoDirecao2, pinoPassos2, 
@@ -190,6 +173,7 @@ int atraso
   passos6= 0;
   passos7= 0;
   passos8= 0;
+  contador= 0;
   sensor = LOW;
   //  passos4=281;
   delay(50);
