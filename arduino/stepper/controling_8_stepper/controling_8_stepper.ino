@@ -9,7 +9,7 @@ int vel6 = 10; //velocidade motor 6; valores acima de 8
 int vel7 = 10; //velocidade motor 7; valores acima de 8
 int vel8 = 10; //velocidade motor 8; valores acima de 8
 int loops_step_1 = 7000;
-int loops_step_2 = 15000;
+int loops_step_2 = 17000;
 
 // referencias
 int para_motor_1 = 40;
