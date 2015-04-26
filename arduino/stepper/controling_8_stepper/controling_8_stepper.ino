@@ -9,7 +9,7 @@ int vel6 = 10; //velocidade motor 6; valores acima de 8
 int vel7 = 10; //velocidade motor 7; valores acima de 8
 int vel8 = 10; //velocidade motor 8; valores acima de 8
 int loops_step_1 = 7000;
-int loops_step_2 = 10000;
+int loops_step_2 = 15000;
 
 // referencias
 int para_motor_1 = 40;
@@ -336,7 +336,7 @@ int atraso
       digitalWrite(pinoPassos5, HIGH);
     }
 
-    if((cont5==0)&&((passos6>200)||(passos5<200+1))){
+    if((cont5==0)&&((passos6>200)&&(passos5<200+1))){
       digitalWrite(pinoPassos5, HIGH);
     }
 
