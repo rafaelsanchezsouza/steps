@@ -336,7 +336,7 @@ int atraso
       digitalWrite(pinoPassos5, HIGH);
     }
 
-    if((cont5==0)&&((passos6>200)&&(passos5<200+1))){
+    if((cont5==0)&&((passos6>200)&&(passos5<200))){
       digitalWrite(pinoPassos5, HIGH);
     }
 
@@ -417,7 +417,7 @@ int atraso
         passos5++;
         cont5 = vel5;
       }
-      if((passos6>200)&&(passos5<200+1)){
+      if((passos6>200)&&(passos5<200)){
         digitalWrite(pinoPassos5, LOW);
         passos5++;
         cont5 = vel5;        
