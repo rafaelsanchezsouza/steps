@@ -40,6 +40,7 @@ static int cont6 = vel6;
 static int cont7 = vel7;
 static int cont8 = vel8;
 static int cont = vel_cont;
+int contador;
 
 // botao para ativar motores
 int pinoBotao = 38;
@@ -350,7 +351,7 @@ int atraso
       digitalWrite(pinoPassos6, HIGH);
     }
 
-    if((cont7==0)&&((contador>liga_motor_7)&&(passos7<200+1)){
+    if((cont7==0)&&(contador>liga_motor_7)&&(passos7<200+1)){
       digitalWrite(pinoPassos7, HIGH);
     }
 
