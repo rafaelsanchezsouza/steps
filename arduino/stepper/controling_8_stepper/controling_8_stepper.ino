@@ -35,6 +35,16 @@ static int cont7 = vel7;
 static int cont8 = vel8;
 static int cont = vel_cont;
 int contador;
+int passos1 = 0;
+int passos2 = 0;
+int passos3 = 0;
+int passos4 = 0;
+int passos5 = 0;
+int passos6 = 0;
+int passos7 = 0;
+int passos8 = 0;
+
+//PINAGEM
 
 // botao para ativar motores
 int pinoBotao = 38;
@@ -46,42 +56,34 @@ volatile int sensor = LOW;
 // stepper 1
 int pinoDirecao1 = 22;
 int pinoPassos1 = 3;
-int passos1 = 0;
 
 // stepper 2
 int pinoDirecao2 = 24;
 int pinoPassos2 = 4;
-int passos2 = 0;
 
 // stepper 3
 int pinoDirecao3 = 26;
 int pinoPassos3 = 5;
-int passos3 = 0;
 
 // stepper 4
 int pinoDirecao4 = 28;
 int pinoPassos4 = 6;
-int passos4 = 0;
 
 // stepper 5
 int pinoDirecao5 = 30;
 int pinoPassos5 = 7;
-int passos5 = 0;
 
 // stepper 6
 int pinoDirecao6 = 32;
 int pinoPassos6 = 8;
-int passos6 = 0;
 
 // stepper 7
 int pinoDirecao7 = 34;
 int pinoPassos7 = 9;
-int passos7 = 0;
 
 // stepper 8
 int pinoDirecao8 = 36;
 int pinoPassos8 = 10;
-int passos8 = 0;
 
 void setup() {
   Serial.begin(9600);
