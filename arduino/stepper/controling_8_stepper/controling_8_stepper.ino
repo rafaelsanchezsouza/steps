@@ -17,7 +17,7 @@ int liga_motor_4 = 200; //referente ao numero de passos dado pelo motor2
 int extra_motor_4 = 80; //referente ao avanco extra que o motor 4 da antes de voltar
 int para_motor_5 = 40;
 int para_motor_6 = 40;
-int para_motor_7 = 40;
+int liga_motor_7 = 2000;
 int para_motor_8 = 40;
 
 // variaveis auxiliares (nao mexer)
@@ -30,6 +30,7 @@ int passos_temp5 = 0;
 int passos_temp6 = 0;
 int passos_temp7 = 0;
 int passos_temp8 = 0;
+int vel_cont = vel2;
 static int cont1 = vel1;
 static int cont2 = vel2;
 static int cont3 = vel3;
@@ -38,6 +39,7 @@ static int cont5 = vel5;
 static int cont6 = vel6;
 static int cont7 = vel7;
 static int cont8 = vel8;
+static int cont = vel_cont;
 
 // botao para ativar motores
 int pinoBotao = 38;
@@ -348,6 +350,18 @@ int atraso
       digitalWrite(pinoPassos6, HIGH);
     }
 
+    if((cont7==0)&&((contador>liga_motor_7)&&(passos7<200+1)){
+      digitalWrite(pinoPassos7, HIGH);
+    }
+
+    if((cont8==0)&&(passos7>200)&&(passos8<200+1)){
+      digitalWrite(pinoPassos8, HIGH);
+    }
+
+    if(cont==0){
+      contador++;
+    }
+
     delayMicroseconds(atraso);
 
     if(cont1){
@@ -420,7 +434,7 @@ int atraso
       cont6--;
     }
     else{
-      if((passos1>para_motor_1-1)){
+      if((passos5>100)&&(passos6<200+1)){
         digitalWrite(pinoPassos6, LOW);
         passos6++;
         cont6 = vel6;
@@ -431,7 +445,7 @@ int atraso
       cont7--;
     }
     else{
-      if((passos1>para_motor_1-1)){
+      if((contador>liga_motor_7)&&(passos7<200+1)){
         digitalWrite(pinoPassos7, LOW);
         passos7++;
         cont7 = vel7;
@@ -442,12 +456,21 @@ int atraso
       cont8--;
     }
     else{
-      if((passos1>para_motor_1-1)){
+      if((passos7>200)&&(passos8<200+1)){
         digitalWrite(pinoPassos8, LOW);
         passos8++;
         cont8 = vel8;
       }
     }        
+
+    if(cont){
+      cont--;
+    }
+    else{
+      if((passos1>para_motor_1-1)){
+        cont = vel_cont;
+      }
+    } 
 
     delayMicroseconds(atraso);
 
