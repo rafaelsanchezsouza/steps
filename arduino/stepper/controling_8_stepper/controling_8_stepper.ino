@@ -317,15 +317,15 @@ int atraso
 
   for(int i=0;i<loops;i++){
 
-    if((cont1==0)&&(passos1<para_motor_1)){
+    if((cont1==0)&&(passos1<para_motor_1+1)){
       digitalWrite(pinoPassos1,HIGH);
     }
     
-    if((cont2==0)&&(passos1>para_motor_1-1)&&(passos2<201)){
+    if((cont2==0)&&(passos1>para_motor_1)&&(passos2<para_motor_2+1)){
       digitalWrite(pinoPassos2,HIGH);
     }
     
-    if((cont3==0)&&(passos1>para_motor_1-1)){
+    if((cont3==0)&&(passos1>para_motor_1)&&(passos3<para_motor_3+1)){
       digitalWrite(pinoPassos3,HIGH);
     }
     
@@ -369,7 +369,7 @@ int atraso
       cont1--;
     }
     else{
-      if((passos1<para_motor_1)){
+      if((passos1<para_motor_1+1)){
         digitalWrite(pinoPassos1, LOW);
         passos1++;
         cont1 = vel1;
@@ -380,7 +380,7 @@ int atraso
       cont2--;
     }
     else{
-      if((passos1>para_motor_1-1)&&(passos2<201)){
+      if((passos1>para_motor_1)&&(passos2<para_motor_2+1)){
         digitalWrite(pinoPassos2, LOW);
         passos2++;
         cont2 = vel2;
@@ -390,7 +390,7 @@ int atraso
       cont3--;
     }
     else{
-      if((passos1>para_motor_1-1)){
+      if((passos1>para_motor_1)&&(passos3<para_motor_3+1){
         digitalWrite(pinoPassos3, LOW);
         passos3++;
         cont3 = vel3;
