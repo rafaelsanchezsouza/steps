@@ -343,7 +343,7 @@ int atraso
         digitalWrite(pinoPassos5, HIGH);
     }
 
-    if((cont5==0)&&((passos5>200)||(passos5<200+1))){
+    if((cont5==0)&&((passos6>200)||(passos5<200+1))){
         digitalWrite(pinoPassos5, HIGH);
     }
 
@@ -473,12 +473,6 @@ int atraso
       }
     } 
 
-    delayMicroseconds(atraso);
-
-    // leitura pelo sensor de posicao 
-    if(sensor == HIGH){
-      sensor = LOW;
-      i = loops;
-    }     
+    delayMicroseconds(atraso);    
   }
 }
