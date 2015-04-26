@@ -390,7 +390,7 @@ int atraso
       cont3--;
     }
     else{
-      if((passos1>para_motor_1)&&(passos3<para_motor_3+1){
+      if((passos1>para_motor_1)&&(passos3<para_motor_3+1)){
         digitalWrite(pinoPassos3, LOW);
         passos3++;
         cont3 = vel3;
