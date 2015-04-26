@@ -8,6 +8,8 @@ int vel5 = 10; //velocidade motor 5; valores acima de 8
 int vel6 = 10; //velocidade motor 6; valores acima de 8
 int vel7 = 10; //velocidade motor 7; valores acima de 8
 int vel8 = 10; //velocidade motor 8; valores acima de 8
+int loops_step_1 = 7000;
+int loops_step_2 = 10000;
 
 // referencias
 int para_motor_1 = 40;
@@ -128,7 +130,7 @@ void loop(){
     true, pinoDirecao6, pinoPassos6, 
     true, pinoDirecao7, pinoPassos7, 
     true, pinoDirecao8, pinoPassos8,
-    7000, 
+    loops_step_1, 
     atraso);
 
     passos_temp1=passos1;
@@ -149,7 +151,7 @@ void loop(){
     true, pinoDirecao6, pinoPassos6, 
     true, pinoDirecao7, pinoPassos7, 
     true, pinoDirecao8, pinoPassos8,
-    5000, 
+    loops_step_2, 
     atraso);
   }
 }
@@ -216,6 +218,10 @@ int atraso
       digitalWrite(pinoDirecao4,!dir4);
     } 
 
+    if(cont==0){
+      contador++;
+    }
+
     delayMicroseconds(atraso);
 
     if(cont1){
@@ -266,7 +272,13 @@ int atraso
         passos4++;
         cont4 = vel4;        
       } 
-
+      
+      if(cont){
+        cont--;
+      }
+      else{
+        cont = vel_cont;
+      } 
     }
 
     delayMicroseconds(atraso);
@@ -344,7 +356,7 @@ int atraso
       digitalWrite(pinoPassos5, HIGH);
     }
 
-    if((cont6==0)&&(passos5>100)&&(passos6<200+1)){
+    if((cont6==0)&&(passos5>90)&&(passos6<200+1)){
       digitalWrite(pinoPassos6, HIGH);
     }
 
@@ -432,7 +444,7 @@ int atraso
       cont6--;
     }
     else{
-      if((passos5>100)&&(passos6<200+1)){
+      if((passos5>90)&&(passos6<200+1)){
         digitalWrite(pinoPassos6, LOW);
         passos6++;
         cont6 = vel6;
@@ -465,9 +477,7 @@ int atraso
       cont--;
     }
     else{
-      if((passos1>para_motor_1-1)){
         cont = vel_cont;
-      }
     } 
 
     delayMicroseconds(atraso);    
