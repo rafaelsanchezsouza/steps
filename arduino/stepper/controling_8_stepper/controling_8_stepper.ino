@@ -313,25 +313,49 @@ int atraso
   delay(5);
 
   for(int i=0;i<loops;i++){
-          
-    if((cont1==0)&&(passos1<200)){
+
+    if((cont1==0)&&(passos1<para_motor_1)){
       digitalWrite(pinoPassos1,HIGH);
     }
     
-    if((cont2==0)&&(passos2<200)){
+    if((cont2==0)&&(passos1>para_motor_1-1)&&(passos2<201)){
       digitalWrite(pinoPassos2,HIGH);
+    }
+    
+    if((cont3==0)&&(passos1>para_motor_1-1)){
+      digitalWrite(pinoPassos3,HIGH);
+    }
+    
+    if((cont4==0)&&(passos2>100)&&(passos4<200+extra_motor_4+1)){
+      digitalWrite(pinoPassos4,HIGH);
+    }
+
+    if((cont4==0)&&(passos4>200+extra_motor_4)&&(passos4<200+2*(extra_motor_4+1))){
+        digitalWrite(pinoDirecao4,!dir4);
+        digitalWrite(pinoPassos4, HIGH);
+        digitalWrite(pinoDirecao4,!dir4);
+    } 
+
+    if((cont5==0)&&((passos4>200)&&(passos5<100+1))){
+        digitalWrite(pinoPassos5, HIGH);
+    }
+
+    if((cont5==0)&&((passos5>200)||(passos5<200+1))){
+        digitalWrite(pinoPassos5, HIGH);
+    }
+
+    if((cont6==0)&&(passos5>100)&&(passos6<200+1)){
+      digitalWrite(pinoPassos6, HIGH);
     }
 
     delayMicroseconds(atraso);
 
     if(cont1){
       cont1--;
-//      Serial.println("Entrou cont 1");
     }
     else{
-      if((passos1<200)){
+      if((passos1<para_motor_1)){
         digitalWrite(pinoPassos1, LOW);
-//        Serial.println("Entrou cont 1_2");        
         passos1++;
         cont1 = vel1;
       }
@@ -341,14 +365,96 @@ int atraso
       cont2--;
     }
     else{
-      if((passos2<200)){
+      if((passos1>para_motor_1-1)&&(passos2<201)){
         digitalWrite(pinoPassos2, LOW);
         passos2++;
         cont2 = vel2;
       }
+    }    
+    if(cont3){
+      cont3--;
+    }
+    else{
+      if((passos1>para_motor_1-1)){
+        digitalWrite(pinoPassos3, LOW);
+        passos3++;
+        cont3 = vel3;
+      }
     }
 
+    if(cont4){
+      cont4--;
+    }
+    else{
+      if((passos2>100)&&(passos4<200+extra_motor_4+1)){
+        digitalWrite(pinoPassos4, LOW);
+        passos4++;
+        cont4 = vel4;
+      }
+      if((passos4>200+extra_motor_4)&&(passos4<200+2*(extra_motor_4+1))){
+        digitalWrite(pinoDirecao4,!dir4);
+        digitalWrite(pinoPassos4, LOW);
+        digitalWrite(pinoDirecao4,!dir4);
+        passos4++;
+        cont4 = vel4;        
+    } 
+  }
+
+    if(cont5){
+      cont5--;
+    }
+    else{
+      if((passos4>200)&&(passos5<100+1)){
+        digitalWrite(pinoPassos5, LOW);
+        passos5++;
+        cont5 = vel5;
+      }
+      if((passos6>200)&&(passos5<200+1)){
+        digitalWrite(pinoPassos5, LOW);
+        passos5++;
+        cont5 = vel5;        
+      } 
+    }
+
+    if(cont6){
+      cont6--;
+    }
+    else{
+      if((passos1>para_motor_1-1)){
+        digitalWrite(pinoPassos6, LOW);
+        passos6++;
+        cont6 = vel6;
+      }
+    }
+
+    if(cont7){
+      cont7--;
+    }
+    else{
+      if((passos1>para_motor_1-1)){
+        digitalWrite(pinoPassos7, LOW);
+        passos7++;
+        cont7 = vel7;
+      }
+    }
+
+    if(cont8){
+      cont8--;
+    }
+    else{
+      if((passos1>para_motor_1-1)){
+        digitalWrite(pinoPassos8, LOW);
+        passos8++;
+        cont8 = vel8;
+      }
+    }        
+
     delayMicroseconds(atraso);
-   
+
+    // leitura pelo sensor de posicao 
+    if(sensor == HIGH){
+      sensor = LOW;
+      i = loops;
+    }     
   }
 }
