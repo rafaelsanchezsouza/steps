@@ -1,14 +1,14 @@
 // variaveis ajustaveis
-int vel = 9; //determina velocidade geral do sitema; valores de 1 a 10
+int vel = 8; //determina velocidade geral do sitema; valores de 1 a 10
 int vel1 = 10; //velocidade motor 1; valores acima de 8
-int vel2 = 8; //velocidade motor 2; valores acima de 8
+int vel2 = 10; //velocidade motor 2; valores acima de 8
 int vel3 = 10; //velocidade motor 3; valores acima de 8
-int vel4 = 10; //velocidade motor 4; valores acima de 8
+int vel4 = 30; //velocidade motor 4; valores acima de 8
 int vel5 = 10; //velocidade motor 5; valores acima de 8
 int vel6 = 10; //velocidade motor 6; valores acima de 8
 int vel7 = 10; //velocidade motor 7; valores acima de 8
 int vel8 = 10; //velocidade motor 8; valores acima de 8
-int loops_step_1 = 7000;
+int loops_step_1 = 15000;
 int loops_step_2 = 17000;
 
 // referencias
@@ -186,7 +186,7 @@ int atraso
       digitalWrite(pinoPassos1,HIGH);
     }
 
-    if((cont2==0)&&(passos1>para_motor_1-1)&&(passos2<201)){
+    if((cont2==0)&&(passos1>para_motor_1-1)&&(passos2<1201)){
       digitalWrite(pinoPassos2,HIGH);
     }
 
@@ -225,7 +225,7 @@ int atraso
       cont2--;
     }
     else{
-      if((passos1>para_motor_1-1)&&(passos2<201)){
+      if((passos1>para_motor_1-1)&&(passos2<1201)){
         digitalWrite(pinoPassos2, LOW);
         passos2++;
         cont2 = vel2;
