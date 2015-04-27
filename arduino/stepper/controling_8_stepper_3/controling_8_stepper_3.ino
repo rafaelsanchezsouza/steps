@@ -186,21 +186,13 @@ int atraso
 
   for(int i=0;i<loops;i++){
 
-    if((cont1==0)&&(passos1<para_motor_1+1)){
-      digitalWrite(pinoPassos1,HIGH);
-    }
-
-    if((cont2==0)&&(passos1>para_motor_1-1)&&(passos2<1201)){
+    if((cont2==0)&&(passos2<1201)){
       digitalWrite(pinoPassos2,HIGH);
     }
 
-    if((cont3==0)&&(passos1>para_motor_1-1)){
+    if((cont3==0)&&(passos2<1201)){
       digitalWrite(pinoPassos3,HIGH);
     } 
-
-    if(cont==0){
-      contador++;
-    }
 
     if((cont4==0)&&(passos2>100)&&(passos4<200+extra_motor_4+1)){
       digitalWrite(pinoPassos4,HIGH);
@@ -223,25 +215,18 @@ int atraso
     if((cont6==0)&&(passos5>100)&&(passos6<200+1)){
       digitalWrite(pinoPassos6, HIGH);
     }
+    
+    if(cont==0){
+      contador++;
+    }
 
     delayMicroseconds(atraso);
-
-    if(cont1){
-      cont1--;
-    }
-    else{
-      if((passos1<para_motor_1+1)){
-        digitalWrite(pinoPassos1, LOW);
-        passos1++;
-        cont1 = vel1;
-      }
-    }
 
     if(cont2){
       cont2--;
     }
     else{
-      if((passos1>para_motor_1-1)&&(passos2<1201)){
+      if((passos2<1201)){
         digitalWrite(pinoPassos2, LOW);
         passos2++;
         cont2 = vel2;
@@ -251,7 +236,7 @@ int atraso
       cont3--;
     }
     else{
-      if((passos1>para_motor_1-1)){
+      if(passos2<1201){
         digitalWrite(pinoPassos3, LOW);
         passos3++;
         cont3 = vel3;
@@ -355,15 +340,11 @@ int atraso
 
   for(int i=0;i<loops;i++){
 
-    if((cont1==0)&&(passos1<para_motor_1+1)){
-      digitalWrite(pinoPassos1,HIGH);
-    }
-
-    if((cont2==0)&&(passos1>para_motor_1)&&(passos2<para_motor_2+1)){
+    if((cont2==0)&&(passos2<para_motor_2+1)){
       digitalWrite(pinoPassos2,HIGH);
     }
 
-    if((cont3==0)&&(passos1>para_motor_1)&&(passos3<para_motor_3+1)){
+    if((cont3==0)&&(passos3<para_motor_3+1)){
       digitalWrite(pinoPassos3,HIGH);
     }
 
@@ -396,6 +377,10 @@ int atraso
     if((cont8==0)&&(passos5>199)&&(passos8<200+1)){
       digitalWrite(pinoPassos8, HIGH);
     }
+    
+    if((cont1==0)&&(passos8>110)&&(passos1<para_motor_1+1)){
+      digitalWrite(pinoPassos1,HIGH);
+    }
 
     if(cont==0){
       contador++;
@@ -403,22 +388,11 @@ int atraso
 
     delayMicroseconds(atraso);
 
-    if(cont1){
-      cont1--;
-    }
-    else{
-      if((passos1<para_motor_1+1)){
-        digitalWrite(pinoPassos1, LOW);
-        passos1++;
-        cont1 = vel1;
-      }
-    }
-
     if(cont2){
       cont2--;
     }
     else{
-      if((passos1>para_motor_1)&&(passos2<para_motor_2+1)){
+      if((passos2<para_motor_2+1)){
         digitalWrite(pinoPassos2, LOW);
         passos2++;
         cont2 = vel2;
@@ -428,7 +402,7 @@ int atraso
       cont3--;
     }
     else{
-      if((passos1>para_motor_1)&&(passos3<para_motor_3+1)){
+      if((passos3<para_motor_3+1)){
         digitalWrite(pinoPassos3, LOW);
         passos3++;
         cont3 = vel3;
@@ -501,6 +475,17 @@ int atraso
         cont8 = vel8;
       }
     }        
+
+    if(cont1){
+      cont1--;
+    }
+    else{
+      if((passos8>110)){
+        digitalWrite(pinoPassos1, LOW);
+        passos1++;
+        cont1 = vel1;
+      }
+    }
 
     if(cont){
       cont--;
