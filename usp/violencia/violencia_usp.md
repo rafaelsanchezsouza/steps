@@ -3,7 +3,7 @@ VIOLÊNCIA NA USP
 
 # Retomando a discussão virtual
 
-Falou-se pouco de violência na [Assembléia Geral dos Estudantes das Engenharias Mecânica e Mecatrônica][link], os alunos então combinaram uma reunião a ser realizada na Quarta-Feira(29/04) para dar continuidade ao assunto. Por algum motivo a reunião não aconteceu. Eu havia reservado 2 horas do meu dia para dedicar ao tema, este é o resultado destas duas horas de dedicação.
+Falou-se pouco de violência na [Assembléia Geral dos Estudantes das Engenharias Mecânica e Mecatrônica][link]: os alunos então combinaram uma reunião a ser realizada na Quarta-Feira(29/04) para dar continuidade ao assunto. A reunião não aconteceu. Como eu havia reservado 2 horas do meu dia para dedicar ao tema, este é o resultado destas duas horas de dedicação.
 
 Acredito que falta às discussões informação, dados concretos e definições. Por conta disto, fui atrás destes dados e os compartilho aqui.
 
@@ -22,3 +22,8 @@ Minha primeira busca Google "violencia usp" me levou ao [Núcleo de Estudos da V
 
 Desta forma vamos, aos poucos, direcionando a palavra **Violência** ao contexto do estudante Politécnico - pois o estudo abarca jovens entre 15 e 29 anos.
 
+### Crise de Violência na USP
+
+Há uma crise de violência na USP? Aumentaram os casos de assalto, estupro ou mortes na USP? O que é a violência na USP?
+
+Para dar continuidade a este levantamento, proponho um mapeamento dos casos de violência na USP dos últimos 10 anos.
