@@ -184,7 +184,7 @@ int atraso
   //  passos4=281;
   delay(50);
 
-  for(int i=0;i<loops;i++){
+  for(unsigned int i=0;i<loops;i++){
 
     if((cont2==0)&&(passos2<1201)){
       digitalWrite(pinoPassos2,HIGH);
@@ -338,7 +338,7 @@ int atraso
   //  sensor = LOW;
   delay(1);
 
-  for(int i=0;i<loops;i++){
+  for(unsigned int i=0;i<loops;i++){
 
     if((cont2==0)&&(passos2<para_motor_2+1)){
       digitalWrite(pinoPassos2,HIGH);
