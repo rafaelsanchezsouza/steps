@@ -11,12 +11,15 @@ int vel8 = 25; //velocidade motor 8; valores acima de 8
 
 // referencias
 int liga_motor_2 = 20; //duracao do movimento do motor 1 sozinho
-int para_motor_1_2 = 30; //duracao do movimento do motor 1 junto do motor 2 (distancia entre lacos)
-int para_motor_2 = 995; //numero de passos apos o micro
-int para_motor_3 = 995; //numero de passos apos o micro
+int para_motor_1_2 = 20; //duracao do movimento do motor 1 junto do motor 2
+int para_motor_2 = 1000;
+int para_motor_3 = 1000;
 int liga_motor_4 = 200; //referente ao numero de passos dado pelo motor2
 int extra_motor_4 = 40; //referente ao avanco extra que o motor 4 da antes de voltar
-int liga_motor_7 = 2000; //referente ao tempo que o motor 7 demora para ser ligado
+int para_motor_5 = 40;
+int para_motor_6 = 40;
+int liga_motor_7 = 2000;
+int para_motor_8 = 40;
 
 // variaveis auxiliares (nao mexer)
 int loops_step_1 = 15000;
