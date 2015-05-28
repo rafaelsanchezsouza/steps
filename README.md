@@ -1,6 +1,6 @@
 steps
 =====
 
-here are my steps  
+follow my steps  
 slow and continuos
 
