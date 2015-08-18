@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1425665536 "/Users/Rafael/steps/latex/templates/checklist/checklist.tex" "/Users/Rafael/steps/latex/templates/checklist/checklist.pdf" "checklist" 1425665536
-  "/Users/Rafael/steps/latex/templates/checklist/checklist.aux" 1425665536 182 9a1ca30b194bd545f26a173e7817d613 ""
-  "/Users/Rafael/steps/latex/templates/checklist/checklist.tex" 1425665534 668 2514d3cfa5975d6f8b71ffa56171e6aa ""
+["pdflatex"] 1433867025 "/Users/Rafael/steps/latex/templates/checklist/checklist.tex" "/Users/Rafael/steps/latex/templates/checklist/checklist.pdf" "checklist" 1433867026
+  "/Users/Rafael/steps/latex/templates/checklist/checklist.aux" 1433867026 182 9a1ca30b194bd545f26a173e7817d613 ""
+  "/Users/Rafael/steps/latex/templates/checklist/checklist.tex" 1428604293 668 2514d3cfa5975d6f8b71ffa56171e6aa ""
   "/usr/local/texlive/2014/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -31,13 +31,13 @@
   "/usr/local/texlive/2014/texmf-dist/tex/latex/wasysym/wasysym.sty" 1137111081 10611 eca9e56dd071530be0c56f0b968bbdb6 ""
   "/usr/local/texlive/2014/texmf-dist/web2c/texmf.cnf" 1398200874 31722 4f52421e59a4b9e910cf18e64c1f2b4a ""
   "/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1401025944 1445653 26a0aacf3d70032b1ec192e8c7792117 ""
-  "/usr/local/texlive/2014/texmf-var/web2c/pdftex/pdflatex.fmt" 1418566276 3832013 3e4ddcc1c32928656f3f89d165359189 ""
+  "/usr/local/texlive/2014/texmf-var/web2c/pdftex/pdflatex.fmt" 1428434447 3832011 141c36d0c3711a3e1de0a018c15af4d1 ""
   "/usr/local/texlive/2014/texmf.cnf" 1401025936 577 a59edbde8d3a8c549d0eeaab1739e2ff ""
-  "checklist.aux" 1425665536 182 9a1ca30b194bd545f26a173e7817d613 ""
-  "checklist.tex" 1425665534 668 2514d3cfa5975d6f8b71ffa56171e6aa ""
+  "checklist.aux" 1433867026 182 9a1ca30b194bd545f26a173e7817d613 ""
+  "checklist.tex" 1428604293 668 2514d3cfa5975d6f8b71ffa56171e6aa ""
   (generated)
   "checklist.pdf"
+  "/Users/Rafael/steps/latex/templates/checklist/checklist.pdf"
+  "/Users/Rafael/steps/latex/templates/checklist/checklist.log"
   "checklist.aux"
   "checklist.log"
-  "/Users/Rafael/steps/latex/templates/checklist/checklist.log"
-  "/Users/Rafael/steps/latex/templates/checklist/checklist.pdf"
