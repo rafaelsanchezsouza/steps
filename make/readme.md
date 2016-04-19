@@ -59,9 +59,21 @@ Samsung Gear VR: $99
 Google Cardboard: $17
 
 ## Passos
-### 1. Recortar gabaritos e colar partes correspondentes  (15 min)
+### Recortar gabaritos e colar partes correspondentes  (15 min)
 <> ![Alt text](/WTV020SD/_pics/diagrama_sem_arduino.png "Montagem Básica")  
 <> "Esquemático para Montagem Básica (Fonte: BuildCircuit)"  
+
+### Colar gabarito sobre o material e cortar o material com estilete
+
+### Fazer o botão de toque
+
+### Colar velcro
+
+### Montar o óculos
+
+### Testar!
+
+### Corrigir eventuais problemas
 
 
 ## Referências
@@ -71,5 +83,5 @@ Google Cardboard: $17
 *   [wearable.com](http://www.wareable.com/headgear/the-best-ar-and-vr-headsets/)
 
 ## Contatos
-rafaelsanchezsouza@gmail.com
+rafaelsanchezsouza@gmail.com  
 diogojosecostapinto@gmail.com
