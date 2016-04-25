@@ -36,7 +36,6 @@ title: Imersão na Realidade Virtual: do Hardware ao Software
 
 1. Compatível com diferentes smartphones
 2. Possui diferentes versões 
-
   *   [Cardboard 1.0](http://ge.tt/38amg1a2)
   *   [Cardboard 1.5](http://ge.tt/3Q1sg1a2)  
   *   [Cardboard 2.0](http://ge.tt/20ohg1a2)
