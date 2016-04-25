@@ -1,6 +1,6 @@
 ---
 layout: workshop
-title: Realidade Virtual de Baixo Custo
+title: Imersão na Realidade Virtual: do Hardware ao Software
 ---
 
 ## Conceitos
@@ -37,18 +37,15 @@ title: Realidade Virtual de Baixo Custo
 1. Compatível com diferentes smartphones
 2. Possui diferentes versões 
 
-  Cardboard 1.0  
-  Cardboard 1.5  
-  Cardboard 2.0  
+  *   [Cardboard 1.0](http://ge.tt/38amg1a2)
+  *   [Cardboard 1.5](http://ge.tt/3Q1sg1a2)  
+  *   [Cardboard 2.0](http://ge.tt/20ohg1a2)
 3. Baixo Custo
 
 ### Pontos Negativos
 *   Dificuldade de leitura devido a taxas de atualização
 *   Ausência de feedback táctil
 *   Movimentação real e virtual
-
-### Pontos Positivos
-* 
 
 ## Benchmarking
 
@@ -59,9 +56,7 @@ Samsung Gear VR: $99
 Google Cardboard: $17
 
 ## Passos
-### Recortar gabaritos e colar partes correspondentes  (15 min)
-<> ![Alt text](/WTV020SD/_pics/diagrama_sem_arduino.png "Montagem Básica")  
-<> "Esquemático para Montagem Básica (Fonte: BuildCircuit)"  
+### Recortar gabaritos e colar partes correspondentes 
 
 ### Colar gabarito sobre o material e cortar o material com estilete
 
@@ -74,7 +69,6 @@ Google Cardboard: $17
 ### Testar!
 
 ### Corrigir eventuais problemas
-
 
 ## Referências
 
